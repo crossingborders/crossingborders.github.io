@@ -1,0 +1,16 @@
+{% if page.photoset %}
+
+  <aside id="photoset">
+    <h1><small>Quelques photos…</small> <i class="fa fa-camera-retro fa-2x"></i></h1>
+    <ul>
+      {% for photo in page.photos %}
+      <li>
+        <a href="{{ photo.urlFullSize }}" title="{{ photo.title }}">
+          <img src="{{ photo.urlThumbnail }}" alt="{{ photo.title }}" class="{{ photo.thumbType }}">
+        </a>
+    </li>
+    {% endfor %}
+    </ul>
+  </aside>
+
+{% endif %} 

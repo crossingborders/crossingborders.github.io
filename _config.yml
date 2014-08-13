@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         redcarpet
+gems:
+  - jemoji
+  - jekyll-sitemap
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Crossingborders
+tagline:          a photo-blog adventure
+description:      A description of the photo-blog adventure
+# url:              http://www.crossingborders.fr
+url:              http://localhost:4000
+paginate:         1
+baseurl:          /
+author:
+  name:           Manue
+  email:          manu@false-gmail.com
+exclude:          ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+# Paths
+javascripts_path: '/public/javascripts'
+stylesheets_path: '/public/stylesheets'
+images_path:      '/public/images'
+sass:
+  sass_dir: /public/stylesheets
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/mpepito13/crossingborders.github.io
+
+# FlickRaw vars
+flickr:
+  enabled:         yes
+  cache_dir:       ./_cache/flickr
+  api_key:         ea1f0ff4ce1b6df0d47a12e54e26f5af
+  shared_secret:   f3fc32a642fbcb99
+  auth_token:      72157646009650039-2230bd4b6c5bad05

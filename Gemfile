@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+ruby '2.1.2'
+gem 'bundler'
+gem 'jekyll'
+gem 'jemoji'
+gem 'flickraw'
+gem 'rack-jekyll'

@@ -1,0 +1,23 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
+
+    {% if include.googlemap %}
+      {% include googlemap.html %}
+    {% endif %}
+
+    <style>
+      header nav ul a[href="{{ page.url }}"] {
+        color: #ffd700;
+        font-weight: 100;
+        text-transform: uppercase;
+      }
+    </style>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+</head>

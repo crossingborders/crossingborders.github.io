@@ -1,0 +1,43 @@
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: $dove_gray_approx;
+  background-color: $alabaster_approx;
+}
+.container {
+  max-width: 30rem;
+  padding: inherit 1rem;
+  margin: auto;
+}
+.masthead {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: $fuscous_gray_approx;
+  a {
+    color: $fuscous_gray_approx;
+  }
+  small {
+    font-size: 75%;
+    font-weight: 400;
+    color: $silver;
+    letter-spacing: 0;
+  }
+}
+.page {
+  border-bottom: 1px solid $celeste_approx;
+  padding-bottom: 1em;
+
+  h1 {
+    color: $mine_shaft_approx;
+    margin-top: 0;
+  }
+}

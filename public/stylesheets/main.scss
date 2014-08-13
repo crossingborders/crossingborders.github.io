@@ -1,0 +1,42 @@
+---
+---
+@import 'base';
+@import 'reset';
+@import 'font-awesome';
+@import 'header';
+@import 'container';
+@import 'post';
+@import 'pagination';
+@import 'infobox';
+@import 'footer';
+@import 'photoset';
+
+html, body {
+  height: 100%;
+}
+
+#map-canvas {
+  border-bottom: 1px solid #999;
+  height: 80%;
+  width: 100%;
+
+  img {
+    max-width: none;
+  }
+}
+
+h1, h2, h3 {
+  small {
+    font-size: .8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+
+    // &:before {
+    //   content: ":: "
+    // }
+  }
+}
+
+body > .container {
+  margin-top: 1rem;
+}

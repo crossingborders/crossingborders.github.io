@@ -1,0 +1,41 @@
+---
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Santa Maria in Trastevere
+  urlFullSize: https://farm6.staticflickr.com/5131/5451661384_ea0c276bd4_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5131/5451661384_ea0c276bd4_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Papal Burial
+  urlFullSize: https://farm6.staticflickr.com/5294/5451661768_6ae7ab8335_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5294/5451661768_6ae7ab8335_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Apse in Santa Maria in Trastevere
+  urlFullSize: https://farm6.staticflickr.com/5214/5451050497_1da9947c27_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5214/5451050497_1da9947c27_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Alter in Santa Maria in Trastevere
+  urlFullSize: https://farm5.staticflickr.com/4146/5451662326_63a6961b7b_b.jpg
+  urlThumbnail: https://farm5.staticflickr.com/4146/5451662326_63a6961b7b_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Stone Floor in Santa Maria in Trastevere
+  urlFullSize: https://farm6.staticflickr.com/5058/5451662664_0e3591a0be_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5058/5451662664_0e3591a0be_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Mosaic Detail in Santa Maria in Trastevere
+  urlFullSize: https://farm6.staticflickr.com/5016/5451663072_c4acfb9ca2_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5016/5451663072_c4acfb9ca2_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Prayers to Jesus
+  urlFullSize: https://farm5.staticflickr.com/4109/5451051919_c92c74040e_b.jpg
+  urlThumbnail: https://farm5.staticflickr.com/4109/5451051919_c92c74040e_q.jpg
+  thumbType: square
+- !ruby/object:Jekyll::FlickrPhoto
+  title: Angels and Lamb
+  urlFullSize: https://farm6.staticflickr.com/5174/5451663688_5c8d4e9793_b.jpg
+  urlThumbnail: https://farm6.staticflickr.com/5174/5451663688_5c8d4e9793_q.jpg
+  thumbType: square

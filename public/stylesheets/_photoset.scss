@@ -1,0 +1,61 @@
+#photoset {
+  background-color: rgb(35, 35, 35);
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+  border-radius: 3px;
+  border: 1px solid black;
+  left: -10em;
+  padding: .3rem;
+  position: absolute;
+  top: .5em;
+
+  h1 {
+    color: #efefef;
+    font-size: .8rem;
+    letter-spacing: .1em;
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  i {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+}
+
+@media(max-width: 1001px) {
+  #photoset {
+    left: auto;
+    max-width: 80%;
+    right: 0;
+
+    &:hover {
+      ul {
+        display: inline;
+
+        li {
+          display: inline-block;
+        }
+        img {
+          display: inline;
+        }
+      }
+    }
+
+    h1 {
+      padding: 0 1rem;
+      small {
+        display: none;
+      }
+      i {
+        display: inherit;
+      }
+    }
+    ul {
+      display: none;
+    }
+  }
+}

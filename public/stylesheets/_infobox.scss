@@ -1,0 +1,23 @@
+.infobox {
+  display: none;
+  font-size: .8rem;
+  max-width: 18rem;
+  min-width: 18rem;
+  padding: .8em;
+
+  h3 {
+    margin: 0 0 .6rem 0;
+  }
+
+  small {
+    color: $boulder;
+    display: block;
+    font-size: .8rem;
+    font-weight: 200;
+  }
+
+  p:last-of-type {
+    // margin: 0;
+    text-align: right;
+  }
+}

@@ -1,0 +1,48 @@
+@media(min-width: 30em) {
+  .pagination {
+    margin: 3rem 0;
+  }
+  .pagination-item {
+    float: left;
+    width: 50%;
+    &:first-child {
+      margin-bottom: 0;
+      //Instead of the line below you could use @include border-top-left-radius($radius)
+      border-top-left-radius: 4px;
+      //Instead of the line below you could use @include border-bottom-left-radius($radius)
+      border-bottom-left-radius: 4px;
+    }
+    &:last-child {
+      margin-left: -1px;
+      //Instead of the line below you could use @include border-top-right-radius($radius)
+      border-top-right-radius: 4px;
+      //Instead of the line below you could use @include border-bottom-right-radius($radius)
+      border-bottom-right-radius: 4px;
+    }
+  }
+}
+
+.pagination {
+  overflow: hidden;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: $font_9, $font_1, $font_2, $font_3;
+  color: $celeste_approx;
+  text-align: center;
+}
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid $gallery_approx;
+  &:first-child {
+    margin-bottom: -1px;
+  }
+}
+tbody tr:nth-child(odd) {
+  td {
+    background-color: $alabaster_approx;
+  }
+  th {
+    background-color: $alabaster_approx;
+  }
+}
