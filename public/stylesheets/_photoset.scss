@@ -67,7 +67,7 @@
 @media(max-width: 1001px) {
   #photoset {
     left: auto;
-    max-width: 80%;
+    max-width: 91%;
     right: 0;
 
     &:hover {
@@ -88,12 +88,16 @@
       small {
         display: none;
       }
-      i {
-        display: inherit;
+      i.fa-camera-retro {
+        display: inline;
       }
     }
     ul {
       display: none;
+
+      li {
+        margin: 0 .3rem;
+      }
     }
   }
 }

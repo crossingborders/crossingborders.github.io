@@ -1906,7 +1906,7 @@ body > footer {
 @media (max-width: 1001px) {
   #photoset {
     left: auto;
-    max-width: 80%;
+    max-width: 91%;
     right: 0; }
     #photoset:hover ul {
       display: inline; }
@@ -1918,10 +1918,12 @@ body > footer {
       padding: 0 1rem; }
       #photoset h1 small {
         display: none; }
-      #photoset h1 i {
-        display: inherit; }
+      #photoset h1 i.fa-camera-retro {
+        display: inline; }
     #photoset ul {
-      display: none; } }
+      display: none; }
+      #photoset ul li {
+        margin: 0 .3rem; } }
 html, body {
   height: 100%; }
 
