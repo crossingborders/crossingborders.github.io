@@ -1,3 +1,12 @@
+<script>
+{% if page.latitude and page.longitude %}
+  var latitude = {{ page.latitude }};
+  var longitude = {{ page.longitude }};
+{% else %}
+  var latitude = false;
+  var longitude = false;
+{% endif %}
+</script>
 <!-- Elément Google Maps indiquant que la carte doit être affiché en plein écran et
 qu'elle ne peut pas être redimensionnée par l'utilisateur -->
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
@@ -5,6 +14,6 @@ qu'elle ne peut pas être redimensionnée par l'utilisateur -->
 <!-- Le paramètre "sensor" indique si cette application utilise détecteur pour déterminer la position de l'utilisateur -->
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
-<script type="text/javascript">
-  {% include script.js %}
-</script>
+<script type="text/javascript" src="{{ site.javascripts_path }}/initialize.js"></script>
+
+<script type="text/javascript" src="{{ site.javascripts_path }}/googlemap.js"></script>

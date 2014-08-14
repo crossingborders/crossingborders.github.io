@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="A description of the photo-blog adventure">
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+    
+    
+
+    
+      <script>
+
+  var latitude = false;
+  var longitude = false;
+
+</script>
+<!-- Elément Google Maps indiquant que la carte doit être affiché en plein écran et
+qu'elle ne peut pas être redimensionnée par l'utilisateur -->
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<!-- Inclusion de l'API Google MAPS -->
+<!-- Le paramètre "sensor" indique si cette application utilise détecteur pour déterminer la position de l'utilisateur -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript" src="/public/javascripts/initialize.js"></script>
+
+<script type="text/javascript" src="/public/javascripts/googlemap.js"></script>
+    
+
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/public/stylesheets/main.css">
+    <style>
+      header nav ul a[href="/page3/"] {
+        color: #ffd700;
+        font-weight: 100;
+        text-transform: uppercase;
+      }
+    </style>
+
+    <title>Crossingborders</title>
+</head>
+
+
+<body onload="initialize()">
+
+  <header>
+  <nav class="container" role="navigation">
+    <h1>
+      <a href="/" title="Accueil">X<sup>ing</sup> Borders</a>
+      <!-- <small>a photo-blog adventure</small> -->
+    </h1>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">À propos de…</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+  <div id="map-canvas"></div>
+
+  <div class="container">
+    
+  </div>
+  
+  <div class="infobox-wrapper">
+
+    <div class="infobox" id="excursion-Thaïlande">
+        <h3>Thaïlande <small>Koh Tao, Koh Samui, Koh Phangan, Bangkok</small></h3>
+        <p>Très beau</p>
+        <p><a href="2014/08/12/le-grand-depart">Lire la suite &raquo;</a></p>
+    </div>
+
+    <div class="infobox" id="excursion-Myanmar">
+        <h3>Myanmar <small>Yangon, Bagan, Lac Inle</small></h3>
+        <p>Superbe</p>
+        <p><a href="2014/03/30/myanmar">Lire la suite &raquo;</a></p>
+    </div>
+
+    <div class="infobox" id="excursion-Hong Kong">
+        <h3>Hong Kong <small>Yangon, Bagan, Lac Inle</small></h3>
+        <p>On est le 04 Février 2014 et je suis à Paris, dans le froid et sous la pluie. Je me réjouis du programme de ces 6 prochaines semaines…</p>
+        <p><a href="2014/12/05/hongkong">Lire la suite &raquo;</a></p>
+    </div>
+
+</div>
+
+  <footer class="container">
+  <p>&copy; 2014. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

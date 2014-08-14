@@ -1,0 +1,9 @@
+<div class="infobox-wrapper">
+{% for excursion in site.data.excursions %}
+    <div class="infobox" id="excursion-{{ excursion.country}}">
+        <h3>{{ excursion.country }} <small>{{ excursion.places | map: 'name' | join: ', ' }}</small></h3>
+        <p>{{ excursion.excerpt }}</p>
+        <p><a href="{{ excursion.date }}/{{ excursion.pagename }}">Lire la suite &raquo;</a></p>
+    </div>
+{% endfor %}
+</div>

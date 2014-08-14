@@ -1,11 +1,5 @@
-{% assign longitude = false %}
-{% assign latitude = false %}
-
-{% if page.latitude and page.longitude %}
-  {% assign longitude = page.longitude %}
-  {% assign latitude = page.latitude %}
-{% endif %}
-
+---
+---
 var map;
 var excursions = new Array();
 var infoWindow = new google.maps.InfoWindow;
@@ -33,33 +27,6 @@ var bounds = new google.maps.LatLngBounds();
     }
   };
 })();
-  
-function initialize() {
-  var myOptions = {
-    scrollwheel: false,
-    mapTypeId: google.maps.MapTypeId.ROADMAP,
-    zoom: 2
-  };
-  map = new google.maps.Map(document.getElementById("map-canvas"), myOptions);
-  
-{% for excursion in site.data.excursions %}
-  var excursion =  new Object();
-  excursion.name = "{{ excursion.country }}"
-  excursion.lat =  {{ excursion.latitude }}
-  excursion.lng =  {{ excursion.longitude }}
-  excursions.push(excursion);
-{% endfor %}
-
-  excursions.forEach( function (excursion) {
-    var latlng = new google.maps.LatLng(excursion.lat, excursion.lng);
-
-    active_marker = (excursion.lat == {{latitude}} && excursion.lng == {{longitude}})? true : false;
-    map.addMarker(createMarker(excursion.name,latlng, active_marker));
-    bounds.extend(latlng);
-  })
-
-  map.fitBounds(bounds);
-}
 
 function createMarker(name, latlng, active) {
   var marker = new google.maps.Marker({
