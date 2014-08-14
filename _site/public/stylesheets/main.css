@@ -120,8 +120,7 @@ blockquote {
 
 img {
   display: inline-block;
-  max-width: 100%;
-  margin: 0 0 1rem; }
+  max-width: 100%; }
 
 table {
   margin-bottom: 1rem;
@@ -1744,6 +1743,7 @@ body > header {
 .container {
   max-width: 30rem;
   padding: inherit 1rem;
+  position: relative;
   margin: auto; }
 
 .masthead {
@@ -1885,8 +1885,23 @@ body > footer {
       margin: 0; }
       #photoset ul li img {
         height: 120px;
-        margin: 0;
         width: 120px; }
+
+#frame {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 3px solid #fff;
+  border-radius: 3px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+  position: absolute;
+  opacity: 0;
+  z-index: 101; }
+  #frame img {
+    margin: auto; }
+  #frame figcaption {
+    color: #eee;
+    font-family: Oswald;
+    margin: .2rem 0;
+    text-align: center; }
 
 @media (max-width: 1001px) {
   #photoset {

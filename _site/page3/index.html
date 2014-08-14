@@ -6,8 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="A description of the photo-blog adventure">
-    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>    
+    <link rel="stylesheet" href="/public/stylesheets/main.css">
+    <style>
+      /* Permet de modifier le lien actif dans la barre de menu */
+      header nav ul a[href="/page3/"] {
+        color: #ffd700;
+        font-weight: 100;
+        text-transform: uppercase;
+      }
+    </style>
     
+    <script type="text/javascript" src="/public/javascripts/init.js"></script>
+
     
 
     
@@ -24,27 +35,14 @@ qu'elle ne peut pas être redimensionnée par l'utilisateur -->
 <!-- Le paramètre "sensor" indique si cette application utilise détecteur pour déterminer la position de l'utilisateur -->
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
-<script type="text/javascript" src="/public/javascripts/initialize.js"></script>
-
 <script type="text/javascript" src="/public/javascripts/googlemap.js"></script>
     
-
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/public/stylesheets/main.css">
-    <style>
-      header nav ul a[href="/page3/"] {
-        color: #ffd700;
-        font-weight: 100;
-        text-transform: uppercase;
-      }
-    </style>
 
     <title>Crossingborders</title>
 </head>
 
 
-<body onload="initialize()">
+<body>
 
   <header>
   <nav class="container" role="navigation">

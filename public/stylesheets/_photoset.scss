@@ -31,10 +31,36 @@
 
       img {
         height: 120px;
-        margin: 0;
         width: 120px;
       }
     }
+  }
+}
+
+#overlay {
+
+}
+
+#frame {
+  background-color: rgba(0, 0, 0, .9);
+  border: 3px solid #fff;
+  border-radius: 3px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, .8);
+  // left: 0;
+  position: absolute;
+  opacity: 0;
+  // right: 0;
+  z-index: 101;
+
+  img {
+    margin: auto
+  }
+
+  figcaption {
+    color: #eee;
+    font-family: $font_10;
+    margin: .2rem 0;
+    text-align: center;
   }
 }
 

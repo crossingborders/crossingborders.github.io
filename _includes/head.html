@@ -3,8 +3,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>    
+    <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
+    <style>
+      /* Permet de modifier le lien actif dans la barre de menu */
+      header nav ul a[href="{{ page.url }}"] {
+        color: #ffd700;
+        font-weight: 100;
+        text-transform: uppercase;
+      }
+    </style>
     
+    <script type="text/javascript" src="{{ site.javascripts_path }}/init.js"></script>
+
     {% if page.photoset %}
       {% include flickr.html %}
     {% endif %}
@@ -12,17 +23,6 @@
     {% if include.googlemap %}
       {% include googlemap.html %}
     {% endif %}
-
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
-    <style>
-      header nav ul a[href="{{ page.url }}"] {
-        color: #ffd700;
-        font-weight: 100;
-        text-transform: uppercase;
-      }
-    </style>
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 </head>
