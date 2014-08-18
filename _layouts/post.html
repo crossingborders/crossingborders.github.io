@@ -9,19 +9,10 @@ comments: true
   }
 </style>
 
-<article>
+<article role="article">
   <header>
     <h1>{{ page.title }}</h1>
-    <p class="meta">
-      {{ page.date | date: "le %d %B %Y" }}
-      {% if page.author %}
-        • {{ page.author }}
-      {% endif %}
-
-      {% if page.meta %}
-        • {{ page.meta }}
-      {% endif %}
-    </p>
+    <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
   </header>
   
   {% include photoset.html %}
