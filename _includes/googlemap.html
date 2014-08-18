@@ -1,11 +1,5 @@
 <script>
-{% if page.latitude and page.longitude %}
-  var latitude = {{ page.latitude }};
-  var longitude = {{ page.longitude }};
-{% else %}
-  var latitude = false;
-  var longitude = false;
-{% endif %}
+var country = '{{ page.country }}';
 </script>
 <!-- Elément Google Maps indiquant que la carte doit être affiché en plein écran et
 qu'elle ne peut pas être redimensionnée par l'utilisateur -->

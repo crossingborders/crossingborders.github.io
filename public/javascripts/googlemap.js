@@ -1,11 +1,11 @@
 ---
 ---
 var map;
-var excursions = new Array();
-var infoWindow = new google.maps.InfoWindow;
 var bounds = new google.maps.LatLngBounds();
+var infoWindow = new google.maps.InfoWindow;
 
 function googlemap() {
+  var geocoder, active_marker;
 
   var myOptions = {
     scrollwheel: false,
@@ -13,23 +13,20 @@ function googlemap() {
     zoom: 2
   };
   map = new google.maps.Map(document.getElementById("map-canvas"), myOptions);
+  geocoder = new google.maps.Geocoder();
   
-{% for excursion in site.data.excursions %}
-  var excursion =  new Object();
-  excursion.name = "{{ excursion.country }}"
-  excursion.lat =  {{ excursion.latitude }}
-  excursion.lng =  {{ excursion.longitude }}
-  excursions.push(excursion);
+{% for post in site.posts %}
+
+  geocoder.geocode({'address': "{{ post.country }}"}, function (results, status) {
+    if (status == google.maps.GeocoderStatus.OK) {
+      var location = results[0];
+      var latlng = location.geometry.location;
+      var active_marker = (country == '{{post.country}}')? true : false;
+
+      map.addMarker(createMarker(location.formatted_address, latlng, active_marker));
+    }
+  });
 {% endfor %}
-
-  excursions.forEach( function (excursion) {
-    var latlng = new google.maps.LatLng(excursion.lat, excursion.lng);
-
-    active_marker = (excursion.lat == latitude && excursion.lng == longitude)? true : false;
-    map.addMarker(createMarker(excursion.name,latlng, active_marker));
-    bounds.extend(latlng);
-  })
-  map.fitBounds(bounds);
 }
 
 (function () {
@@ -58,7 +55,6 @@ function googlemap() {
 function createMarker(name, latlng, active) {
   var marker = new google.maps.Marker({
     animation: google.maps.Animation.DROP,
-    // icon: '/public/images/star.png',
     map: map, 
     position: latlng});
 
@@ -68,12 +64,15 @@ function createMarker(name, latlng, active) {
   google.maps.event.addListener(marker, "click", function() {
     if (infoWindow) infoWindow.close();
 
-    // infoWindow = new infoWindow({boxClass: 'infoWindow'});
     clone = document.getElementById("excursion-"+name).cloneNode(true);
     infoWindow.setContent (clone);
     clone.style.display = "inherit";
     infoWindow.open(map, marker);
   });
+
+  bounds.extend(latlng);
+  map.fitBounds(bounds);
+
   return marker;
 }
 

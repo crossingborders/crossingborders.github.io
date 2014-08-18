@@ -1,9 +1,9 @@
 var map;
-var excursions = new Array();
-var infoWindow = new google.maps.InfoWindow;
 var bounds = new google.maps.LatLngBounds();
+var infoWindow = new google.maps.InfoWindow;
 
 function googlemap() {
+  var geocoder, active_marker;
 
   var myOptions = {
     scrollwheel: false,
@@ -11,35 +11,42 @@ function googlemap() {
     zoom: 2
   };
   map = new google.maps.Map(document.getElementById("map-canvas"), myOptions);
+  geocoder = new google.maps.Geocoder();
   
 
-  var excursion =  new Object();
-  excursion.name = "Thaïlande"
-  excursion.lat =  12.716667
-  excursion.lng =  101.166667
-  excursions.push(excursion);
 
-  var excursion =  new Object();
-  excursion.name = "Myanmar"
-  excursion.lat =  19.75
-  excursion.lng =  96.1
-  excursions.push(excursion);
+  geocoder.geocode({'address': "Myanmar"}, function (results, status) {
+    if (status == google.maps.GeocoderStatus.OK) {
+      var location = results[0];
+      var latlng = location.geometry.location;
+      var active_marker = (country == 'Myanmar')? true : false;
 
-  var excursion =  new Object();
-  excursion.name = "Hong Kong"
-  excursion.lat =  22.28552
-  excursion.lng =  114.15769
-  excursions.push(excursion);
+      map.addMarker(createMarker(location.formatted_address, latlng, active_marker));
+    }
+  });
 
 
-  excursions.forEach( function (excursion) {
-    var latlng = new google.maps.LatLng(excursion.lat, excursion.lng);
+  geocoder.geocode({'address': "Thaïlande"}, function (results, status) {
+    if (status == google.maps.GeocoderStatus.OK) {
+      var location = results[0];
+      var latlng = location.geometry.location;
+      var active_marker = (country == 'Thaïlande')? true : false;
 
-    active_marker = (excursion.lat == latitude && excursion.lng == longitude)? true : false;
-    map.addMarker(createMarker(excursion.name,latlng, active_marker));
-    bounds.extend(latlng);
-  })
-  map.fitBounds(bounds);
+      map.addMarker(createMarker(location.formatted_address, latlng, active_marker));
+    }
+  });
+
+
+  geocoder.geocode({'address': "France"}, function (results, status) {
+    if (status == google.maps.GeocoderStatus.OK) {
+      var location = results[0];
+      var latlng = location.geometry.location;
+      var active_marker = (country == 'France')? true : false;
+
+      map.addMarker(createMarker(location.formatted_address, latlng, active_marker));
+    }
+  });
+
 }
 
 (function () {
@@ -68,7 +75,6 @@ function googlemap() {
 function createMarker(name, latlng, active) {
   var marker = new google.maps.Marker({
     animation: google.maps.Animation.DROP,
-    // icon: '/public/images/star.png',
     map: map, 
     position: latlng});
 
@@ -78,12 +84,15 @@ function createMarker(name, latlng, active) {
   google.maps.event.addListener(marker, "click", function() {
     if (infoWindow) infoWindow.close();
 
-    // infoWindow = new infoWindow({boxClass: 'infoWindow'});
     clone = document.getElementById("excursion-"+name).cloneNode(true);
     infoWindow.setContent (clone);
     clone.style.display = "inherit";
     infoWindow.open(map, marker);
   });
+
+  bounds.extend(latlng);
+  map.fitBounds(bounds);
+
   return marker;
 }
 

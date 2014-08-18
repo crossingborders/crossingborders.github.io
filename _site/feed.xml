@@ -5,42 +5,39 @@
     <description>A description of the photo-blog adventure</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Aug 2014 13:58:44 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2014 13:58:44 +0200</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2014 15:58:47 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2014 15:58:47 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
-        <title>Pour mémoire</title>
-        <description>&lt;p&gt;Je crée une nouvelle directement depuis github.&lt;/p&gt;
+        <title>Myanmar la belle</title>
+        <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext. &lt;img class=&#39;emoji&#39; title=&#39;:+1:&#39; alt=&#39;:+1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;&lt;/p&gt;
 
-&lt;p&gt;TODO :&lt;/p&gt;
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;voir l&amp;#39;api flickr&lt;/li&gt;
-&lt;li&gt;voir l&amp;#39;api disqus&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Une fois que j&amp;#39;aurais implémenté ça je pourrais le montrer à manouelle&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/etienne.jpg&quot; alt=&quot;Étienne Étienne Étienne!&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll&amp;#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Aug 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000//2014/08/13/pour-memoire/</link>
-        <guid isPermaLink="true">http://localhost:4000//2014/08/13/pour-memoire/</guid>
+        <pubDate>Sun, 30 Mar 2014 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2014/03/30/Myanmar/</link>
+        <guid isPermaLink="true">http://localhost:4000//2014/03/30/Myanmar/</guid>
         
         
       </item>
     
       <item>
-        <title>Le grand départ !</title>
-        <description>&lt;p&gt;On est le 04 Février 2014 et je suis à Paris, dans le froid et sous la pluie. Je me réjouis du programme de ces 6 prochaines semaines:&lt;/p&gt;
+        <title>Arrivée à Bangkok, direction Koh Tao</title>
+        <description>&lt;p&gt;Après un long voyage en avion plein de rebondissements (je vous passe les détails, mais voilà un conseil: ne voyagez JAMAIS avec Kuwait Airways :)), nous atterrissons finalement à Bangkok, d’où nous repartons directement pour nous envoler vers Koh Samui. &lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Commencer par passer 1 mois à Koh Tao pour “se mettre dans le bain” (au sens propre comme au sens figuré :)) et prendre des couleurs.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Profiter d’être dans le coin pour faire un saut sur Koh Samui et aller à la full moon party sur Koh Phangan.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Ensuite, remonter sur Bangkok avant de partir 15 jours au Myanmar pour un 1er voyage itinérant.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Toutes ces années à en rêver…
-J’ai du mal à réaliser ce que je suis en train de faire: &lt;strong&gt;partir 2 ans faire le tour du monde, après avoir tout quitté&lt;/strong&gt;. Famille, amis, chien, travail, maison, affaires, habitudes, confort, sécurité,… Tout :). Pourtant, je suis bien là, à l’aéroport, mes sacs sur le dos et les billets à la main, prête à quitter mon petit monde bien douillé direction l’inconnu. Mon rêve de gosse est en train de se réaliser… Que d’excitation, que d’appréhension aussi! Après un long voyage en avion plein de rebondissements (je vous passe les détails, mais voilà un conseil: ne voyagez JAMAIS avec Kuwait Airways :)), nous atterrissons finalement à Bangkok, d’où nous repartons directement pour nous envoler vers Koh Samui. De là, un bateau nous amène, via Koh Phangan, à bon port. Petite île de 7km par 3 perdue au milieu du golfe de Thaïlande, mecque des écoles de plongée et d’apnée, &lt;strong&gt;Koh Tao&lt;/strong&gt; est la destination idéale pour démarrer ce tour du monde: de jolies plages peu fréquentées, de superbes couchers de soleil, des paysages verdoyants, un rythme de vie tranquille, un coût de la vie très bas, de chouettes massages, toutes les commodités nécessaires à proximité… Que demander de plus?! C’est donc dans ce cadre fort agréable que nous posons nos sacs pour 1 mois, durée maximale du visa touristique obtenu à l’arrivée. Comme j’ai la chance d’avoir avec moi un compagnon de voyage déjà très familier du coin, je n’ai plus qu’à me laisser porter et à me remettre doucement des émotions de ce grand départ vers l’inconnu! Koh Tao est un endroit vraiment accueillant, bien que par certains aspects pas très représentatif de la Thailande :):&lt;/p&gt;
+&lt;p&gt;De là, un bateau nous amène, via Koh Phangan, à bon port. Petite île de 7km par 3 perdue au milieu du golfe de Thaïlande, mecque des écoles de plongée et d’apnée, &lt;strong&gt;Koh Tao&lt;/strong&gt; est la destination idéale pour démarrer ce tour du monde: de jolies plages peu fréquentées, de superbes couchers de soleil, des paysages verdoyants, un rythme de vie tranquille, un coût de la vie très bas, de chouettes massages, toutes les commodités nécessaires à proximité… Que demander de plus?! C’est donc dans ce cadre fort agréable que nous posons nos sacs pour 1 mois, durée maximale du visa touristique obtenu à l’arrivée. Comme j’ai la chance d’avoir avec moi un compagnon de voyage déjà très familier du coin, je n’ai plus qu’à me laisser porter et à me remettre doucement des émotions de ce grand départ vers l’inconnu! Koh Tao est un endroit vraiment accueillant, bien que par certains aspects pas très représentatif de la Thailande :):&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;La population est composée en majorité de touristes. Les locaux qui y travaillent, eux, viennent pour la plupart du Myanmar: on les reconnait au , cette poudre jaune que les femmes s’appliquent sur le visage en guise de maquillage, que les enfants ont sur le visage et les bras pour se protéger du soleil et que les hommes utilisent pour se rafraichir. Je ne croise au final pas beaucoup de thaïlandais.&lt;/p&gt;&lt;/li&gt;
@@ -84,33 +81,29 @@ direction &lt;strong&gt;LE MYANMAR&lt;/strong&gt; :)
   Si avant, vous voulez (re)voir les photos de ce voyage, c’est par là!
                                       GALERIE PHOTO&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Aug 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000//2014/08/12/le-grand-depart/</link>
-        <guid isPermaLink="true">http://localhost:4000//2014/08/12/le-grand-depart/</guid>
+        <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2014/02/05/Koh-Tao/</link>
+        <guid isPermaLink="true">http://localhost:4000//2014/02/05/Koh-Tao/</guid>
         
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll !</title>
-        <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext. &lt;img class=&#39;emoji&#39; title=&#39;:+1:&#39; alt=&#39;:+1:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;&lt;/p&gt;
+        <title>Le grand départ !</title>
+        <description>&lt;p&gt;On est le 04 Février 2014 et je suis à Paris, dans le froid et sous la pluie. Je me réjouis du programme de ces 6 prochaines semaines:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Commencer par passer 1 mois à Koh Tao pour “se mettre dans le bain” (au sens propre comme au sens figuré :)) et prendre des couleurs.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Profiter d’être dans le coin pour faire un saut sur Koh Samui et aller à la full moon party sur Koh Phangan.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ensuite, remonter sur Bangkok avant de partir 15 jours au Myanmar pour un 1er voyage itinérant.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/etienne.jpg&quot; alt=&quot;Étienne Étienne Étienne!&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll&amp;#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Toutes ces années à en rêver…
+J’ai du mal à réaliser ce que je suis en train de faire: &lt;strong&gt;partir 2 ans faire le tour du monde, après avoir tout quitté&lt;/strong&gt;. Famille, amis, chien, travail, maison, affaires, habitudes, confort, sécurité,… Tout :). Pourtant, je suis bien là, à l’aéroport, mes sacs sur le dos et les billets à la main, prête à quitter mon petit monde bien douillé direction l’inconnu. Mon rêve de gosse est en train de se réaliser… Que d’excitation, que d’appréhension aussi!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Aug 2014 23:17:40 +0200</pubDate>
-        <link>http://localhost:4000//2014/08/11/myanmar/</link>
-        <guid isPermaLink="true">http://localhost:4000//2014/08/11/myanmar/</guid>
+        <pubDate>Tue, 04 Feb 2014 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000//2014/02/04/le-grand-depart/</link>
+        <guid isPermaLink="true">http://localhost:4000//2014/02/04/le-grand-depart/</guid>
         
         
       </item>
