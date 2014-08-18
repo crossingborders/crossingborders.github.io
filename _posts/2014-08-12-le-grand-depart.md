@@ -4,6 +4,7 @@ title: Le grand départ !
 latitude: 12.716667
 longitude: 101.166667
 photoset: 72157625943484513
+photoset: 72057594062163206
 ---
 
 On est le 04 Février 2014 et je suis à Paris, dans le froid et sous la pluie. Je me réjouis du programme de ces 6 prochaines semaines:

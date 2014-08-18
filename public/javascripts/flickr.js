@@ -53,16 +53,15 @@ function open_frame () {
   img.src = fullsize_photo;
   img.alt = target.alt;
 
-
-  var overlay = document.createElement('div');
-  overlay.id = "overlay";
-
-  document.body.appendChild( overlay );
   frame.appendChild( img );
+  var overlay = document.getElementById('overlay');
+  overlay.style.display = 'initial';
+  overlay.addEventListener('click', close_frame);
 }(event)
 
 function close_frame() {
   document.getElementById('frame').style.display = 'none';
+  document.getElementById('overlay').style.display = 'none';
 }
 
 addLoadEvent(flickr);

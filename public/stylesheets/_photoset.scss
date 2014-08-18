@@ -37,7 +37,14 @@
 }
 
 #overlay {
-
+  background-color: rgba(0,0,0,0.8);
+  display: none;
+  height: 110%;
+  left: 0;
+  position: fixed;
+  top: -3rem;
+  width: 100%;
+  z-index: 1;
 }
 
 #frame {
@@ -66,6 +73,15 @@
     position: absolute;
     right: .5rem;
     top: .5rem;
+  }
+
+  &:hover:after {
+    background-color: #fff;
+    border-radius: 0 3px 3px 0;
+    content: "\2799";
+    font-size: 1.3rem;
+    padding: 0 .3rem 0 .5rem;
+    position: absolute;
   }
 }
 
