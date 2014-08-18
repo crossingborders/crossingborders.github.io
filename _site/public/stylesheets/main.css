@@ -1701,7 +1701,8 @@ body > header {
   color: #ddd;
   left: 0;
   letter-spacing: .1em;
-  padding: 6px;
+  padding: 3px;
+  position: absolute;
   right: 0;
   z-index: 10; }
   body > header .container {
@@ -1876,14 +1877,13 @@ body > footer {
     text-align: center; }
     #photoset h1 i.fa-camera-retro {
       display: none; }
-  #photoset ul {
-    list-style: none;
+  #photoset p {
     margin: 0;
     padding: 0;
     text-align: center; }
-    #photoset ul li {
-      margin: 0; }
-      #photoset ul li img {
+    #photoset p a {
+      display: block; }
+      #photoset p a img {
         height: 120px;
         width: 120px; }
 
@@ -1892,8 +1892,9 @@ body > footer {
   border: 3px solid #fff;
   border-radius: 3px;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
-  position: absolute;
-  opacity: 0;
+  display: none;
+  position: fixed;
+  top: 33%;
   z-index: 101; }
   #frame img {
     margin: auto; }
@@ -1902,28 +1903,28 @@ body > footer {
     font-family: Oswald;
     margin: .2rem 0;
     text-align: center; }
+  #frame .fa-times-circle {
+    position: absolute;
+    right: .5rem;
+    top: .5rem; }
 
 @media (max-width: 1001px) {
   #photoset {
-    left: auto;
-    max-width: 91%;
-    right: 0; }
-    #photoset:hover ul {
-      display: inline; }
-      #photoset:hover ul li {
-        display: inline-block; }
-      #photoset:hover ul img {
-        display: inline; }
+    left: -5rem;
+    max-width: 91%; }
     #photoset h1 {
       padding: 0 1rem; }
       #photoset h1 small {
         display: none; }
       #photoset h1 i.fa-camera-retro {
         display: inline; }
-    #photoset ul {
+    #photoset p {
       display: none; }
-      #photoset ul li {
-        margin: 0 .3rem; } }
+    #photoset:hover p {
+      display: inherit; }
+      #photoset:hover p a {
+        display: inline;
+        margin: auto .3rem; } }
 html, body {
   height: 100%; }
 

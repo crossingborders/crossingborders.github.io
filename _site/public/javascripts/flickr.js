@@ -1,3 +1,7 @@
+/*
+* flickr() : Requête ajax qui récupère le photoset indiqué dans l'entete du post
+* Les photos récupérées sont ensuite transformé en a > img puis ajouté à aside#photoset > p
+*/
 function flickr() {
   var xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function() {
@@ -15,32 +19,33 @@ function flickr() {
     json.photoset.photo.forEach( function( photo ) {
       var a = document.createElement('a');
       var img = document.createElement('img');
-      var li = document.createElement('li');
 
       a.href = photo.url_m;
       a.title = photo.title;
       img.src = photo.url_sq;
       img.alt = photo.title;
-      a.addEventListener('click', open_photo);
+      a.addEventListener('click', open_frame);
       
       a.appendChild(img);
-      li.appendChild(a);
-      docfrag.appendChild(li);
+      docfrag.appendChild(a);
     });
 
-    document.getElementById('photoset').getElementsByTagName('ul')[0].appendChild( docfrag );
+    document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
   }
 }
 
-function open_photo () {
+/*
+* open_frame() : Quand on clique sur une photo, elle s'ouvre dans un popup au lieu de s'ouvrir dans flickr
+*/
+function open_frame () {
   event.preventDefault();
   var target = event.target;
   var fullsize_photo = target.parentNode.href;
 
   var frame = document.getElementById('frame');
   frame.getElementsByTagName('figcaption')[0].innerText = target.alt;
-  frame.style.top = window.pageYOffset-200+'px';
-  frame.style.opacity = 1;
+  frame.style.display = 'block';
+
 
   var img = frame.getElementsByTagName('img')[0];
   img.src = fullsize_photo;
@@ -53,6 +58,10 @@ function open_photo () {
   document.body.appendChild( overlay );
   frame.appendChild( img );
 }(event)
+
+function close_frame() {
+  document.getElementById('frame').style.display = 'none';
+}
 
 addLoadEvent(flickr);
 // /*
