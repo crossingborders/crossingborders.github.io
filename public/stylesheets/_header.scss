@@ -1,58 +1,63 @@
-body > header {
-  background-color: rgb(35, 35, 35);
-  background-color: #333;
-  background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
-  border-bottom: 1px solid black;
-  box-shadow: 0px 0 8px rgba(0, 0, 0, 0.6);
-  color: #ddd;
-  left: 0;
-  letter-spacing: .1em;
-  padding: 3px;
-  position: absolute;
-  right: 0;
-  z-index: 10;
+body {
+  margin-top: 3rem;
 
-  .container {
-    max-width: 38rem;
-  }
-
-  nav {
-    font-family: $font_10, $font_3;
-
-    h1, ul, li {
-      display: inline;
+  > header {
+    background-color: rgb(35, 35, 35);
+    background-color: #333;
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+    border-bottom: 1px solid black;
+    box-shadow: 0px 0 8px rgba(0, 0, 0, 0.6);
+    color: #ddd;
+    left: 0;
+    letter-spacing: .1em;
+    margin-top: -3rem;
+    padding: 3px;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+  
+    .container {
+      max-width: 38rem;
     }
-
-    h1 {
-      color: #ddd;
-      font-size: 2rem;
-      font-weight: 100;
-      
-      a:hover {
-        text-decoration: none;
-        text-shadow: 0 0 8px $curious_blue_approx;
+  
+    nav {
+      font-family: $font_10, $font_3;
+  
+      h1, ul, li {
+        display: inline;
       }
-      
-      small {
-        font-size: .8rem;
-        text-transform: lowercase;
-
-        &:before {
-          content: ":: "
+  
+      h1 {
+        color: #ddd;
+        font-size: 2rem;
+        font-weight: 100;
+        
+        a:hover {
+          text-decoration: none;
+          text-shadow: 0 0 8px $curious_blue_approx;
+        }
+        
+        small {
+          font-size: .8rem;
+          text-transform: lowercase;
+  
+          &:before {
+            content: ":: "
+          }
         }
       }
-    }
+    
+      ul {
+        li {
+          margin: 0 1em;
+    
+          a {
+            color: $celeste_approx;
+            font-weight: 300;
   
-    ul {
-      li {
-        margin: 0 1em;
-  
-        a {
-          color: $celeste_approx;
-          font-weight: 300;
-
-          &:hover {
-            color: $white;
+            &:hover {
+              color: $white;
+            }
           }
         }
       }
