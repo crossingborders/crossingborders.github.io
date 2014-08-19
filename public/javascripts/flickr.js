@@ -33,6 +33,9 @@ function flickr() {
     });
 
     document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
+    document.getElementById('photoset').onclick = function() {
+      this.style.display = 'inherit';
+    };
 
     var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
   }
