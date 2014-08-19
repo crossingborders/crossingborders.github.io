@@ -15,6 +15,10 @@
     margin: 1rem 0;
     text-align: center;
 
+    i {
+      font-size: 1.3rem
+    }
+    
     i.fa-camera-retro {
       display: none;
     }
@@ -87,8 +91,9 @@
 
 @media(max-width: 1001px) {
   #photoset {
-    left: -5rem;
+    left: initial;
     max-width: 91%;
+    right: 0;
 
     h1 {
       padding: 0 1rem;
