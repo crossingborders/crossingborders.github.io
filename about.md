@@ -1,5 +1,5 @@
 ---
-layout: default_without_googlemap
+layout: default
 title: About
 permalink: /about/
 ---

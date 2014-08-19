@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html>
   
-{% include head.html googlemap=true %}
+{% include head.html %}
 
 <body>
 
   {% include header.html %}
 
+{% if page.googlemap %}
   <div id="map-canvas"></div>
+  {% include infoboxes.html %}
+{% endif %}
 
   <div class="container">
     {{ content }}
   </div>
   
-  {% include infoboxes.html %}
-
   {% include footer.html %}
 </body>
 </html>
