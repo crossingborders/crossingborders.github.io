@@ -19,69 +19,153 @@ function flickr() {
     var docfrag = document.createDocumentFragment();
 
     json.photoset.photo.forEach( function( photo ) {
-      var a = document.createElement('a');
       var img = document.createElement('img');
-
-      a.href = photo.url_m;
-      a.title = photo.title;
       img.src = photo.url_sq;
       img.alt = photo.title;
-      a.addEventListener('click', open_frame);
-      
+
+      var a = document.createElement('a');
+      a.href = photo.url_m;
+      a.title = photo.title;
+      a.id = photo.id;
       a.appendChild(img);
+      
       docfrag.appendChild(a);
     });
 
     document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
+
+    var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
   }
 }
 
-/*
-* open_frame() : Quand on clique sur une photo, elle s'ouvre dans un popup au lieu de s'ouvrir dans flickr
-*/
-function open_frame () {
-  event.preventDefault();
-  var target = event.target;
-  var fullsize_photo = target.parentNode.href;
 
-  var frame = document.getElementById('frame');
-  frame.getElementsByTagName('figcaption')[0].innerText = target.alt;
-  frame.style.display = 'block';
+function Gallery(params) {
+  this.container = document.getElementById(params.id);
+  this.frame = document.getElementById(params.frame);
+  this.photos = [];
+  var links = this.container.getElementsByTagName('a');
+  var previous_photo = null;
 
+  for (var i=0; i < links.length; i++) {
+    var photoNode = links[i];
+    var current_photo = new Photo(photoNode);
+    photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+    current_photo.previous = previous_photo;
+    current_photo.next = null
+    this.photos[parseInt(current_photo.id)] = current_photo;
 
-  var img = frame.getElementsByTagName('img')[0];
-  img.src = fullsize_photo;
-  img.alt = target.alt;
+    if(previous_photo !== null)
+      this.photos[previous_photo].next = current_photo.id;
 
-  frame.appendChild( img );
-  var overlay = document.getElementById('overlay');
-  overlay.style.display = 'initial';
-  overlay.addEventListener('click', close_frame);
-}(event)
+    previous_photo = current_photo.id;
+  }
 
-function close_frame() {
-  document.getElementById('frame').style.display = 'none';
-  document.getElementById('overlay').style.display = 'none';
+  this.overlay = document.createElement('div');
+  this.overlay.id = 'overlay';
+  this.overlay.addEventListener('click', this.close_frame);
+  document.body.appendChild(this.overlay);
+
+  this.link_to_previous_photo = document.createElement('a');
+  this.link_to_previous_photo.alt = "Photo précédente";
+  this.link_to_previous_photo.className += " fa fa-arrow-left";
+  this.link_to_previous_photo.rel = "prev";
+  this.link_to_previous_photo.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+  this.frame.appendChild( this.link_to_previous_photo );
+  
+  this.link_to_next_photo = document.createElement('a');
+  this.link_to_next_photo.alt = "Photo suivante";
+  this.link_to_next_photo.className += " fa fa-arrow-right";
+  this.link_to_next_photo.rel = "next";
+  this.link_to_next_photo.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+  this.frame.appendChild( this.link_to_next_photo );
+
+};
+
+Gallery.prototype = {
+  add_photo_to_frame: function (event) {
+    event.preventDefault();
+    var target = event.target;
+    if (typeof target.href === 'undefined')
+      target = event.target.parentNode;
+
+    this.set_current_photo(this.photos[target.id]);
+
+    if( this.is_the_first_photo() )
+      this.set_link_to_previous_photo( null )
+    else
+      this.set_link_to_previous_photo( this.previous_photo() );
+
+    if( this.is_the_last_photo() )
+      this.set_link_to_next_photo( null )
+    else
+      this.set_link_to_next_photo( this.next_photo() );
+
+    this.display_frame();
+  },
+  set_current_photo: function (photo) {
+    this.current_photo = photo;
+
+    this.frame_title(this.current_photo.title);
+    this.frame_image(this.current_photo.href);
+  },
+  set_link_to_previous_photo: function (photo) {
+    if (photo === null)
+      return this.link_to_previous_photo.style.display = 'none';
+
+    this.link_to_previous_photo.href = photo.href;
+    this.link_to_previous_photo.id = photo.id;
+    this.link_to_previous_photo.style.display = 'initial';
+  },
+  set_link_to_next_photo: function (photo) {
+    if (photo === null)
+      return this.link_to_next_photo.style.display = 'none';
+
+    this.link_to_next_photo.href = photo.href;
+    this.link_to_next_photo.id = photo.id;
+    this.link_to_next_photo.style.display = 'initial';
+  },
+  previous_photo: function () {
+    return this.photos[this.current_photo.previous];
+  },
+  next_photo: function () {
+    return this.photos[this.current_photo.next];
+  },
+  frame_title: function(title) {
+    if(typeof title === 'undefined')
+      return this.frame.getElementsByTagName('figcaption')[0].innerText;
+
+    this.frame.getElementsByTagName('figcaption')[0].innerText = title;
+  },  
+  frame_image: function(href) {
+    if(typeof href === 'undefined')
+      return this.frame.getElementsByTagName('img')[0].src;
+
+    this.frame.getElementsByTagName('img')[0].src = href;
+  },
+  is_the_first_photo: function () {
+    return this.current_photo.previous === null;
+  },
+  is_the_last_photo: function () {
+    return this.current_photo.next === null;
+  },
+  display_frame: function () {
+    this.display_overlay();
+    this.frame.style.display = 'initial';
+  },
+  display_overlay: function () {
+    this.overlay.style.display = 'initial';
+  },
+  close_frame: function () {
+    document.getElementById('frame').style.display = 'none';
+    document.getElementById('overlay').style.display = 'none';
+  }
+};
+
+function Photo(node) {
+  this.node = node;
+  this.id = node.id;
+  this.href = node.href;
+  this.title = node.title;
 }
 
 addLoadEvent(flickr);
-// /*
-// * Mini classe (pour se la péter…) qui récupère un photoset (beaucoup de bruit pour pas grand chose donc)
-// */
-// function Flickr (api_key) {
-//   this.api_key = api_key;
-
-//   this.photoset = function (photoset_id) {
-//     var xhr = new XMLHttpRequest();
-
-//     return xhr.onreadystatechange = function() {
-//       if (xhr.readyState == 4 && xhr.status == 200) {
-//         document.getElementById('icon-loading').style.display = 'none';
-//         return json_to_DOM( JSON.parse(xhr.responseText) );
-//       }
-//     };
-
-//     xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key='+this.api_key+'&photoset_id='+photoset_id+'&extras=url_sq,url_m,url_o&format=json&nojsoncallback=1', true);
-//     xhr.send(null)
-//   };
-// }

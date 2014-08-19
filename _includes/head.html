@@ -3,8 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ page.excerpt || site.description }}">
-    <link rel="author" href="{{ site.profile_homepage }}">
     <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>    
+    <script type="text/javascript" src="{{ site.javascripts_path }}/init.js"></script>
+    {% if page.photoset %}{% include flickr.html %}{% endif %}
+    {% if page.googlemap %}{% include googlemap.html %}{% endif %}
+
     <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
     <style>
       /* Permet de modifier le lien actif dans la barre de menu */
@@ -14,16 +17,6 @@
         text-transform: uppercase;
       }
     </style>
-    
-    <script type="text/javascript" src="{{ site.javascripts_path }}/init.js"></script>
-
-    {% if page.photoset %}
-      {% include flickr.html %}
-    {% endif %}
-
-    {% if page.googlemap %}
-      {% include googlemap.html %}
-    {% endif %}
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 </head>

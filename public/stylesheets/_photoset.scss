@@ -79,14 +79,29 @@
     top: .5rem;
   }
 
-  &:hover:after {
-    background-color: #fff;
-    border-radius: 0 3px 3px 0;
-    content: "\2799";
-    font-size: 1.3rem;
-    padding: 0 .3rem 0 .5rem;
+  [rel]:not([rel='']) {
+    color: #cecece;
+    padding: .3rem;
     position: absolute;
+    top: 0;
+
+    &[href=''] {
+      display: none;
+    }
+
+    &:hover {
+      text-decoration: none;
+    }
   }
+  
+  a[rel='prev'] {
+    left: 0;
+  }
+
+  a[rel='next'] {
+    right: 0;
+  }
+
 }
 
 @media(max-width: 1001px) {
