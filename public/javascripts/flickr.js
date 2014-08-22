@@ -4,43 +4,6 @@
 * flickr() : Requête ajax qui récupère le photoset indiqué dans l'entete du post
 * Les photos récupérées sont ensuite transformé en a > img puis ajouté à aside#photoset > p
 */
-// function flickr() {
-//   var xhr = new XMLHttpRequest();
-//   xhr.onreadystatechange = function() {
-//     if (xhr.readyState == 4 && xhr.status == 200) {
-//       document.getElementById('icon-loading').style.display = 'none';
-//       json_to_DOM( JSON.parse(xhr.responseText) );
-//     }
-//   };
-//   xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key={{ site.flickr.api_key }}&photoset_id='+photoset_id+'&extras=url_sq,url_m,url_o&format=json&nojsoncallback=1', true);
-//   xhr.send(null)
-
-//   function json_to_DOM (json) {
-//     var docfrag = document.createDocumentFragment();
-
-//     json.photoset.photo.forEach( function( photo ) {
-//       var img = document.createElement('img');
-//       img.src = photo.url_sq;
-//       img.alt = photo.title;
-
-//       var a = document.createElement('a');
-//       a.href = photo.url_m;
-//       a.title = photo.title;
-//       a.id = photo.id;
-//       a.appendChild(img);
-      
-//       docfrag.appendChild(a);
-//     });
-
-//     document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
-//     document.getElementById('photoset').onclick = function() {
-//       this.style.display = 'inherit';
-//     };
-
-//     var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
-//   }
-// }
-
 function flickr() {
   var flickr = new Flickr({
     'api_key': '{{ site.flickr.api_key }}', 
@@ -98,12 +61,12 @@ Flickr.prototype = {
       this.style.display = 'inherit';
     };
 
-    new Gallery({'id': 'photoset', 'frame': 'frame'});
-/***
-* j'aimerais utiliser le code de dessous au lieu de créer une galerie dans la class Flickr
-  var observer = new MutationObserver(gallery.dom_changed);
-  observer.observe (document.getElementById('photoset'), {childList: true});
-***/
+var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
+/**
+* j'aimerais utiliser le code de dessous dans la classe Gallery au lieu de créer une galerie dans la class Flickr :
+*    var observer = new MutationObserver(this.mutated);
+*    observer.observe (this.container, {childList: true, subtree: true});
+**/
 
   }
 };
@@ -119,11 +82,15 @@ function Gallery(params) {
   this.photos = [];
   this.dom_changed();
 
-  var observer = new MutationObserver(this.dom_changed);
-  observer.observe (this.container, {childList: true});
+  var observer = new MutationObserver(this.mutated);
+  observer.observe (this.container, {childList: true, subtree: true});
 };
 
 Gallery.prototype = {
+  mutated: function(mutations, observer) {
+    // alert(observer);
+  },
+
   dom_changed: function (mutations) {
     // if ( typeof mutations === 'undefined' ) return;
 
