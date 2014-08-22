@@ -98,7 +98,7 @@ Flickr.prototype = {
       this.style.display = 'inherit';
     };
 
-          new Gallery({'id': 'photoset', 'frame': 'frame'});
+    new Gallery({'id': 'photoset', 'frame': 'frame'});
 /***
 * j'aimerais utiliser le code de dessous au lieu de créer une galerie dans la class Flickr
   var observer = new MutationObserver(gallery.dom_changed);
@@ -108,61 +108,45 @@ Flickr.prototype = {
   }
 };
 
+
+
 function Gallery(params) {
   this.container = document.getElementById(params.id);
 
-  this.frame = document.getElementById(params.frame);
-  this.displayed_photo = this.frame.getElementsByTagName('img')[0];
-  this.displayed_photo.addEventListener('load', this.photo_downloaded.bind(this))
+  this.create_frame(params.frame);
+  this.create_overlay();
 
   this.photos = [];
-
-  this.overlay = document.createElement('div');
-  this.overlay.id = 'overlay';
-  this.overlay.addEventListener('click', this.close_frame);
-  document.body.appendChild(this.overlay);
-
-  this.link_to_previous_photo = document.createElement('a');
-  this.link_to_previous_photo.alt = "Photo précédente";
-  this.link_to_previous_photo.className += " fa fa-arrow-left";
-  this.link_to_previous_photo.rel = "prev";
-  this.link_to_previous_photo.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-  this.frame.appendChild( this.link_to_previous_photo );
-  
-  this.link_to_next_photo = document.createElement('a');
-  this.link_to_next_photo.alt = "Photo suivante";
-  this.link_to_next_photo.className += " fa fa-arrow-right";
-  this.link_to_next_photo.rel = "next";
-  this.link_to_next_photo.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-  this.frame.appendChild( this.link_to_next_photo );
-
-
   this.dom_changed();
+
+  var observer = new MutationObserver(this.dom_changed);
+  observer.observe (this.container, {childList: true});
 };
 
 Gallery.prototype = {
   dom_changed: function (mutations) {
-    if ( typeof mutations === 'undefined' ) return;
+    // if ( typeof mutations === 'undefined' ) return;
 
-    mutations.forEach(function (mutation) {
-      console.log (mutation);
-    });
-    // var links = this.container.getElementsByTagName('a');
-    // var previous_photo = null;
+    // mutations.forEach(function (mutation) {
+    //   console.log (mutation);
+    // });
 
-    // for (var i=0; i < links.length; i++) {
-    //   var photoNode = links[i];
-    //   var current_photo = new Photo(photoNode);
-    //   photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-    //   current_photo.previous = previous_photo;
-    //   current_photo.next = null
-    //   this.photos[parseInt(current_photo.id)] = current_photo;
+    var links = this.container.getElementsByTagName('a');
+    var previous_photo = null;
 
-    //   if(previous_photo !== null)
-    //     this.photos[previous_photo].next = current_photo.id;
+    for (var i=0; i < links.length; i++) {
+      var photoNode = links[i];
+      var current_photo = new Photo(photoNode);
+      photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+      current_photo.previous = previous_photo;
+      current_photo.next = null
+      this.photos[parseInt(current_photo.id)] = current_photo;
 
-    //   previous_photo = current_photo.id;
-    // }
+      if(previous_photo !== null)
+        this.photos[previous_photo].next = current_photo.id;
+
+      previous_photo = current_photo.id;
+    }
   },
 
   add_photo_to_frame: function (event) {
@@ -185,6 +169,46 @@ Gallery.prototype = {
 
     this.frame_image(this.current_photo.href);
   },
+  /*
+  *  Crée figure#frame et dedans figcaption + img + a.next + a.previous
+  *  puis l'ajoute à body
+  */
+  create_frame: function(frame_name) {
+    this.frame = document.createElement('figure');
+    this.frame.id = frame_name;
+
+    this.frame_title = document.createElement('figcaption');
+    this.frame.appendChild( this.frame_title );
+    this.displayed_photo = document.createElement('img');
+    this.frame.appendChild( this.displayed_photo );
+    this.displayed_photo.addEventListener('load', this.photo_downloaded.bind(this), false);
+
+    this.link_to_previous_photo = this.create_navigation_link('Photo précédente', 'fa fa-arrow-left', 'prev');
+    this.link_to_next_photo = this.create_navigation_link('Photo suivante', 'fa fa-arrow-right', 'next');
+    document.body.appendChild( this.frame );
+  },
+
+  create_navigation_link: function(title, className, rel) {
+    var link = document.createElement('a');
+    link.title = title;
+    link.alt = title;
+    link.className += ' '+className;
+    link.rel = rel;
+    link.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+    this.frame.appendChild( link );
+
+    return link;
+  },
+
+  /*
+  *  Crée div#overlay pour le fond noir
+  */
+  create_overlay: function () {
+    this.overlay = document.createElement('div');
+    this.overlay.id = 'overlay';
+    this.overlay.addEventListener('click', this.close_frame.bind(this), false);
+    document.body.appendChild(this.overlay);
+  },
 
   set_navigation_link: function (link, photo) {
     if (typeof photo === 'undefined')
@@ -203,13 +227,6 @@ Gallery.prototype = {
     return this.photos[this.current_photo.next];
   },
 
-  frame_title: function(title) {
-    if(typeof title === 'undefined')
-      return this.frame.getElementsByTagName('figcaption')[0].textContent;
-
-    this.frame.getElementsByTagName('figcaption')[0].textContent = title;
-  },  
-
   frame_image: function(href) {
     if(typeof href === 'undefined')
       return this.frame.getElementsByTagName('img')[0].src;
@@ -227,17 +244,17 @@ Gallery.prototype = {
   },
 
   close_frame: function () {
-    document.getElementById('frame').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
+    this.frame.style.display = 'none';
+    this.overlay.style.display = 'none';
   },
 
   photo_downloaded: function () {
-    this.frame_title(this.current_photo.title);
+    this.frame_title.textContent = this.current_photo.title;
     this.displayed_photo.parentNode.style.margin = '-'+this.displayed_photo.height/2+'px 0 0 -'+this.displayed_photo.width/2+'px';
   },
 
   start_loading: function() {
-    this.frame_title('Loading…');
+    this.frame_title.textContent = 'Loading…';
   }
 };
 
