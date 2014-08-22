@@ -46,10 +46,14 @@ body {
           }
         }
       }
-    
+      
+      #icon-menu {
+        display: none;
+      }
+
       ul {
         li {
-          margin: 0 1em;
+          margin: 0 1rem;
     
           a {
             color: $celeste_approx;
@@ -59,6 +63,24 @@ body {
               color: $white;
             }
           }
+        }
+      }
+    }
+  }
+}
+
+@media(max-width: 490px) {
+  body {
+    margin-top: 3rem;
+
+    > header {
+      nav {
+        #text-menu {
+          display: none;
+        }
+        #icon-menu {
+          display: inline;
+          font-size: 28px
         }
       }
     }

@@ -4,18 +4,79 @@
 * flickr() : Requête ajax qui récupère le photoset indiqué dans l'entete du post
 * Les photos récupérées sont ensuite transformé en a > img puis ajouté à aside#photoset > p
 */
-function flickr() {
-  var xhr = new XMLHttpRequest();
-  xhr.onreadystatechange = function() {
-    if (xhr.readyState == 4 && xhr.status == 200) {
-      document.getElementById('icon-loading').style.display = 'none';
-      json_to_DOM( JSON.parse(xhr.responseText) );
-    }
-  };
-  xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key={{ site.flickr.api_key }}&photoset_id='+photoset_id+'&extras=url_sq,url_m,url_o&format=json&nojsoncallback=1', true);
-  xhr.send(null)
+// function flickr() {
+//   var xhr = new XMLHttpRequest();
+//   xhr.onreadystatechange = function() {
+//     if (xhr.readyState == 4 && xhr.status == 200) {
+//       document.getElementById('icon-loading').style.display = 'none';
+//       json_to_DOM( JSON.parse(xhr.responseText) );
+//     }
+//   };
+//   xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key={{ site.flickr.api_key }}&photoset_id='+photoset_id+'&extras=url_sq,url_m,url_o&format=json&nojsoncallback=1', true);
+//   xhr.send(null)
 
-  function json_to_DOM (json) {
+//   function json_to_DOM (json) {
+//     var docfrag = document.createDocumentFragment();
+
+//     json.photoset.photo.forEach( function( photo ) {
+//       var img = document.createElement('img');
+//       img.src = photo.url_sq;
+//       img.alt = photo.title;
+
+//       var a = document.createElement('a');
+//       a.href = photo.url_m;
+//       a.title = photo.title;
+//       a.id = photo.id;
+//       a.appendChild(img);
+      
+//       docfrag.appendChild(a);
+//     });
+
+//     document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
+//     document.getElementById('photoset').onclick = function() {
+//       this.style.display = 'inherit';
+//     };
+
+//     var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
+//   }
+// }
+
+function flickr() {
+  var flickr = new Flickr({
+    'api_key': '{{ site.flickr.api_key }}', 
+    'photoset': photoset_id,
+    'container': 'photoset',
+    'extras': ['url_sq', 'url_m', 'url_o']
+  });
+  flickr.load();
+}
+
+function Flickr(params) {
+  this.api_key = params.api_key;
+  this.photoset = params.photoset;
+  this.container = document.getElementById(params.container);
+  this.extras = params.extras;
+
+  this.icon_loading = document.getElementById('icon-loading');
+  this.xhr = new XMLHttpRequest();
+  this.xhr.addEventListener('readystatechange', this.downloaded.bind(this));
+}
+
+Flickr.prototype = {
+  load: function () {
+    this.xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key='+this.api_key+'&photoset_id='+this.photoset+'&extras='+this.extras.join(',')+'&format=json&nojsoncallback=1', true);
+    this.xhr.send(null)
+  },
+
+  downloaded: function () {
+    if (this.xhr.readyState == 4 && this.xhr.status == 200) {
+      this.icon_loading.style.display = 'none';
+      var json_response = JSON.parse(this.xhr.responseText);
+      this.json_to_DOM( json_response );      
+    }
+  },
+
+  json_to_DOM: function (json) {
     var docfrag = document.createDocumentFragment();
 
     json.photoset.photo.forEach( function( photo ) {
@@ -32,39 +93,29 @@ function flickr() {
       docfrag.appendChild(a);
     });
 
-    document.getElementById('photoset').getElementsByTagName('p')[0].appendChild( docfrag );
-    document.getElementById('photoset').onclick = function() {
+    this.container.getElementsByTagName('p')[0].appendChild( docfrag );
+    this.container.onclick = function() {
       this.style.display = 'inherit';
     };
 
-    var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
-  }
-}
+          new Gallery({'id': 'photoset', 'frame': 'frame'});
+/***
+* j'aimerais utiliser le code de dessous au lieu de créer une galerie dans la class Flickr
+  var observer = new MutationObserver(gallery.dom_changed);
+  observer.observe (document.getElementById('photoset'), {childList: true});
+***/
 
+  }
+};
 
 function Gallery(params) {
   this.container = document.getElementById(params.id);
+
   this.frame = document.getElementById(params.frame);
   this.displayed_photo = this.frame.getElementsByTagName('img')[0];
   this.displayed_photo.addEventListener('load', this.photo_downloaded.bind(this))
 
   this.photos = [];
-  var links = this.container.getElementsByTagName('a');
-  var previous_photo = null;
-
-  for (var i=0; i < links.length; i++) {
-    var photoNode = links[i];
-    var current_photo = new Photo(photoNode);
-    photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-    current_photo.previous = previous_photo;
-    current_photo.next = null
-    this.photos[parseInt(current_photo.id)] = current_photo;
-
-    if(previous_photo !== null)
-      this.photos[previous_photo].next = current_photo.id;
-
-    previous_photo = current_photo.id;
-  }
 
   this.overlay = document.createElement('div');
   this.overlay.id = 'overlay';
@@ -84,9 +135,36 @@ function Gallery(params) {
   this.link_to_next_photo.rel = "next";
   this.link_to_next_photo.addEventListener('click', this.add_photo_to_frame.bind(this), false);
   this.frame.appendChild( this.link_to_next_photo );
+
+
+  this.dom_changed();
 };
 
 Gallery.prototype = {
+  dom_changed: function (mutations) {
+    if ( typeof mutations === 'undefined' ) return;
+
+    mutations.forEach(function (mutation) {
+      console.log (mutation);
+    });
+    // var links = this.container.getElementsByTagName('a');
+    // var previous_photo = null;
+
+    // for (var i=0; i < links.length; i++) {
+    //   var photoNode = links[i];
+    //   var current_photo = new Photo(photoNode);
+    //   photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
+    //   current_photo.previous = previous_photo;
+    //   current_photo.next = null
+    //   this.photos[parseInt(current_photo.id)] = current_photo;
+
+    //   if(previous_photo !== null)
+    //     this.photos[previous_photo].next = current_photo.id;
+
+    //   previous_photo = current_photo.id;
+    // }
+  },
+
   add_photo_to_frame: function (event) {
     event.preventDefault();
     var target = event.target;
