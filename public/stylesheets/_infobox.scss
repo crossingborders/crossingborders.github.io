@@ -2,9 +2,8 @@
   display: none;
   font-size: .8rem;
   max-width: 18rem;
-  max-height: 198px;
-  min-width: 18rem;
-  padding: .8em;
+  min-height: 10rem;
+  padding: .6rem;
 
   h3 {
     margin: 0 0 .6rem 0;
@@ -18,7 +17,9 @@
   }
 
   p:last-of-type {
-    // margin: 0;
-    text-align: right;
+    bottom: .3rem;
+    margin: 0;
+    position: absolute;
+    right: .3rem;
   }
 }
