@@ -16,9 +16,9 @@ googlemap: true
     <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
   </header>
   
-  {% include photoset.html %}
 
   {{ content }}
+  {% include photoset.html %}
 
   {% include comments.html %}
 </article>
