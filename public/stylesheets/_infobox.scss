@@ -17,7 +17,7 @@
     font-weight: 200;
   }
 
-  p:last-of-type {
+  &> p:last-of-type {
     bottom: .3rem;
     margin: 0;
     position: absolute;
