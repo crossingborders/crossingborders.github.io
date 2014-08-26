@@ -23,9 +23,9 @@ googlemap: true
   <header>
     <h1>{{ page.title }}</h1>
     <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
-    <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    <iframe src="//www.facebook.com/plugins/like.php?href={{ site.url | replace: ':', '%3A' | replace: '/', '%2F'}}{{ page.url | replace: '/', '%2F' }}&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21&amp;appId=702447933160068" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
   </header>
-  
+  %3A%2F
 
   {{ content }}
   {% include photoset.html %}
