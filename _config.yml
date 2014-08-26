@@ -24,9 +24,13 @@ images_path:      '/public/images'
 sass:
   sass_dir: /public/stylesheets
 
-# FlickRaw vars
+# Flickr vars
 flickr:
-  api_key:         ea1f0ff4ce1b6df0d47a12e54e26f5af
+  api_key:        ea1f0ff4ce1b6df0d47a12e54e26f5af
+
+# Facebook vars
+facebook:
+  app_id:         702447933160068
 
 # Dependencies
 markdown:         redcarpet

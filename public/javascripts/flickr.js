@@ -127,13 +127,13 @@ Gallery.prototype = {
 
     this.set_navigation_link( this.link_to_previous_photo, this.previous_photo() );
     this.set_navigation_link( this.link_to_next_photo, this.next_photo() );
+    this.set_facebook_button();
 
     this.display_frame();
   },
 
   set_current_photo: function (photo) {
     this.current_photo = photo;
-
     this.frame_image(this.current_photo.href);
   },
   /*
@@ -152,6 +152,8 @@ Gallery.prototype = {
 
     this.link_to_previous_photo = this.create_navigation_link('Photo précédente', 'fa fa-arrow-left', 'prev');
     this.link_to_next_photo = this.create_navigation_link('Photo suivante', 'fa fa-arrow-right', 'next');
+
+    this.facebook_like = this.create_facebook_like();
     document.body.appendChild( this.frame );
   },
 
@@ -165,6 +167,17 @@ Gallery.prototype = {
     this.frame.appendChild( link );
 
     return link;
+  },
+
+  create_facebook_like: function () {
+    var like = document.createElement('fb:like');
+    like.setAttribute('action', 'like');
+    like.setAttribute('layout', 'button_count');
+    like.setAttribute('share', 'false');
+    like.setAttribute('show-faces', 'false');
+    this.frame.appendChild(like);
+
+    return like;
   },
 
   /*
@@ -222,8 +235,25 @@ Gallery.prototype = {
 
   start_loading: function() {
     this.frame_title.textContent = 'Loading…';
+  },
+
+  set_facebook_button: function () {
+    this.facebook_like.setAttribute('href', this.frame_image());
+
+    FB.XFBML.parse(this.frame);
   }
 };
+
+/*
+*  J'ajoute des fonctions facebook
+*  J'aimerai pouvoir en faire un plugin propre comme ci-dessous
+*/
+// Gallery.add_photo_to_frame_without_fb = Gallery.add_photo_to_frame;
+// Gallery.prototype.add_photo_to_frame = function(event) {
+//   event.preventDefault();
+//   this.add_photo_to_frame_without_fb(event);
+
+// };
 
 function Photo(node) {
   this.node = node;

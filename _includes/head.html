@@ -1,22 +1,24 @@
+<html xmlns:fb="http://ogp.me/ns/fb#" xml:lang="fr" lang="fr">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ page.excerpt || site.description }}">
-    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>    
-    <script type="text/javascript" src="{{ site.javascripts_path }}/init.js"></script>
-    {% if page.photoset %}{% include flickr.html %}{% endif %}
-    {% if page.googlemap %}{% include googlemap.html %}{% endif %}
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="{{ page.excerpt || site.description }}">
 
-    <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
-    <style>
-      /* Permet de modifier le lien actif dans la barre de menu */
-      header nav ul a[href="{{ page.url }}"] {
-        color: #ffd700;
-        font-weight: 100;
-        text-transform: uppercase;
-      }
-    </style>
+  <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>    
+  <script type="text/javascript" src="{{ site.javascripts_path }}/init.js"></script>
+  {% if page.photoset %}{% include flickr.html %}{% endif %}
+  {% if page.googlemap %}{% include googlemap.html %}{% endif %}
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ site.stylesheets_path }}/main.css">
+  <style>
+    /* Permet de modifier le lien actif dans la barre de menu */
+    header nav ul a[href="{{ page.url }}"] {
+      color: #ffd700;
+      font-weight: 100;
+      text-transform: uppercase;
+    }
+  </style>
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 </head>

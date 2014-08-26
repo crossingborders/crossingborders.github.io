@@ -3,6 +3,15 @@ layout: default
 comments: true
 googlemap: true
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&appId={{ site.facebook.app_id }}&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
 <style>
   #map-canvas {
@@ -14,6 +23,7 @@ googlemap: true
   <header>
     <h1>{{ page.title }}</h1>
     <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
+    <div class="fb-like" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
   </header>
   
 
