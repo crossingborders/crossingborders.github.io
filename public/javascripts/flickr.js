@@ -238,7 +238,7 @@ Gallery.prototype = {
   },
 
   set_facebook_button: function () {
-    this.facebook_like.setAttribute('href', this.frame_image());
+    this.facebook_like.setAttribute('href', 'https://'+window.location.host+window.location.pathname);
 
     FB.XFBML.parse(this.frame);
   }
