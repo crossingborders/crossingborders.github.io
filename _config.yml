@@ -39,3 +39,7 @@ gems:
   - jekyll-sitemap
 
 # Prose
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://mpepito13.github.io/'
+  relativeLinks: 'http://mpepito13.github.io/links.jsonp'
