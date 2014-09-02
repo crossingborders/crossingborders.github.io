@@ -71,11 +71,12 @@ prose:
           label: "Longitude"
           value: ""
       - name: "places"
-      	field:
+        field:
           element: "multiselect"
-          label: "Places
+          label: "Places"
           help: "You can add multiple places which will appear beneath the country's name."
           alterable: true
+          value: ""
       - name: "photoset"
         field:
           element: "number"
