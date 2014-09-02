@@ -63,9 +63,16 @@ prose:
         field:
           element: "number"
           label: "Latitude"
+          help: "Give me your coordinates so I can place a marker on the map."
           value: ""
       - name: "longitude"
         field:
           element: "number"
           label: "Longitude"
+          help: "Give me your coordinates so I can place a marker on the map."          value: ""
+      - name: "photoset"
+        field:
+          element: "number"
+          label: "Photoset"
+          help: "Fill in the Flickr's album ID in order to have a gallery automatically generated."
           value: ""
