@@ -54,3 +54,8 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "title"
+        field:
+          element: "text"
+          label: "Country"
+          value: ""
