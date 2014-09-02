@@ -69,7 +69,7 @@ prose:
         field:
           element: "number"
           label: "Longitude"
-          help: "Give me your coordinates so I can place a marker on the map."          value: ""
+          value: ""
       - name: "photoset"
         field:
           element: "number"
