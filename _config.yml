@@ -74,5 +74,5 @@ prose:
         field:
           element: "number"
           label: "Photoset"
-          help: "Fill in the Flickr's album ID in order to have a gallery automatically generated."
+          help: "I need a Flickr's album ID in order to have a gallery automatically generated at the top of the article."
           value: ""
