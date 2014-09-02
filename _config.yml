@@ -59,3 +59,13 @@ prose:
           element: "text"
           label: "Country"
           value: ""
+      - name: "latitude"
+        field:
+          element: "number"
+          label: "Latitude"
+          value: ""
+      - name: "longitude"
+        field:
+          element: "number"
+          label: "Longitude"
+          value: ""
