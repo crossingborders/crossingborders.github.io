@@ -33,7 +33,63 @@ facebook:
   app_id:         702447933160068
 
 # Dependencies
-markdown:         redcarpet
+markdown:         rdiscount
 gems:
   - jemoji
   - jekyll-sitemap
+
+# Prose
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://mpepito13.github.io/'
+  relativeLinks: 'http://mpepito13.github.io/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "latitude"
+        field:
+          element: "number"
+          label: "Latitude"
+          value: ""
+      - name: "longitude"
+        field:
+          element: "number"
+          label: "Longitude"
+          help: "Give me coordinates so I can place a marker on the map."
+          value: ""
+      - name: "country"
+        field:
+          element: "text"
+          label: "Country"
+          help: "Give me coordinates so I can place a marker on the map."
+          value: ""
+      - name: "bouton"
+        field:
+          element: "button"
+          label: "Tst button"
+          on: "Je suis on"
+          off: "Je suis off"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
