@@ -43,7 +43,6 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://mpepito13.github.io/'
   relativeLinks: 'http://mpepito13.github.io/links.jsonp'
-  media: 'media'
   metadata:
     _posts:
       - name: "layout"
