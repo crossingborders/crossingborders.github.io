@@ -5,261 +5,65 @@
 * Les photos récupérées sont ensuite transformé en a > img puis ajouté à aside#photoset > p
 */
 function flickr() {
-  var flickr = new Flickr({
-    'api_key': '{{ site.flickr.api_key }}', 
-    'photoset': photoset_id,
-    'container': 'photoset',
-    'extras': ['url_sq', 'url_m', 'url_o']
-  });
-  flickr.load();
+  var extras = ['url_t', 'url_m', 'url_o'],
+      xhr = new XMLHttpRequest();
+
+  xhr.addEventListener('readystatechange', photoset_downloaded);
+  xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key={{site.flickr.api_key}}&photoset_id='+photoset_id+'&extras='+extras.join(',')+'&format=json&nojsoncallback=1', true);
+  xhr.send(null)
+
 }
 
-function Flickr(params) {
-  this.api_key = params.api_key;
-  this.photoset = params.photoset;
-  this.container = document.getElementById(params.container);
-  this.extras = params.extras;
+function photoset_downloaded () {
+  if (this.readyState != 4 || this.status != 200)
+    return false;
 
-  this.icon_loading = document.getElementById('icon-loading');
-  this.xhr = new XMLHttpRequest();
-  this.xhr.addEventListener('readystatechange', this.downloaded.bind(this));
-}
+  var featured_image,
+      photos = [],
+      photoset = JSON.parse(this.responseText).photoset;
 
-Flickr.prototype = {
-  load: function () {
-    this.xhr.open('GET', 'https://api.flickr.com/services/rest/?method=flickr.photosets.getPhotos&api_key='+this.api_key+'&photoset_id='+this.photoset+'&extras='+this.extras.join(',')+'&format=json&nojsoncallback=1', true);
-    this.xhr.send(null)
-  },
+  for (var i=0; i<photoset.photo.length; i++) {
+    var photo = photoset.photo[i];
 
-  downloaded: function () {
-    if (this.xhr.readyState == 4 && this.xhr.status == 200) {
-      this.icon_loading.style.display = 'none';
-      var json_response = JSON.parse(this.xhr.responseText);
-      this.json_to_DOM( json_response );      
-    }
-  },
+    photos.push({ thumb: photo.url_t, 
+                  image: photo.url_o,
+                  big: photo.url_o,
+                  original: photo.url_o,
+                  title: photo.title });
 
-  json_to_DOM: function (json) {
-    var docfrag = document.createDocumentFragment();
+    if (photo.isprimary === '1')
+      featured_image = photos[i];
+  }
 
-    json.photoset.photo.forEach( function( photo ) {
-      var img = document.createElement('img');
-      img.src = photo.url_sq;
-      img.alt = photo.title;
+  if (typeof featured_image !== 'undefined') {
+    var img = document.querySelector('#featured_image > img')
+    img.src = featured_image.original;
+    img.title = featured_image.title;
+    document.querySelector('article > header h1').style.position = 'absolute';
+  }
 
-      var a = document.createElement('a');
-      a.href = photo.url_m;
-      a.title = photo.title;
-      a.id = photo.id;
-      a.appendChild(img);
-      
-      docfrag.appendChild(a);
+  document.querySelector('#featured_image').addEventListener('click', function() {
+    event.preventDefault();
+
+    document.querySelector('.galleria').style.display = 'initial';
+    Galleria.run('.galleria', {
+      dataSource: photos
     });
 
-    this.container.getElementsByTagName('p')[0].appendChild( docfrag );
-    this.container.onclick = function() {
-      this.style.display = 'inherit';
-    };
+    var close = document.createElement('span');
+    close.id = 'close_galleria';
+    close.innerHTML = '<i class="fa fa-times"></i>';
+    close.style.display = 'initial';
+    close.addEventListener('click', function() {
+      document.querySelector('.galleria').style.display = 'none';
+    });
 
-var g = new Gallery({'id': 'photoset', 'frame': 'frame'});
-/**
-* j'aimerais utiliser le code de dessous dans la classe Gallery au lieu de créer une galerie dans la class Flickr :
-*    var observer = new MutationObserver(this.mutated);
-*    observer.observe (this.container, {childList: true, subtree: true});
-**/
+    document.querySelector('.galleria').appendChild(close);
 
-  }
-};
-
-
-
-function Gallery(params) {
-  this.container = document.getElementById(params.id);
-
-  this.create_frame(params.frame);
-  this.create_overlay();
-
-  this.photos = [];
-  this.dom_changed();
-
-  var observer = new MutationObserver(this.mutated);
-  observer.observe (this.container, {childList: true, subtree: true});
-};
-
-Gallery.prototype = {
-  mutated: function(mutations, observer) {
-    // alert(observer);
-  },
-
-  dom_changed: function (mutations) {
-    // if ( typeof mutations === 'undefined' ) return;
-
-    // mutations.forEach(function (mutation) {
-    //   console.log (mutation);
-    // });
-
-    var links = this.container.getElementsByTagName('a');
-    var previous_photo = null;
-
-    for (var i=0; i < links.length; i++) {
-      var photoNode = links[i];
-      var current_photo = new Photo(photoNode);
-      photoNode.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-      current_photo.previous = previous_photo;
-      current_photo.next = null
-      this.photos[parseInt(current_photo.id)] = current_photo;
-
-      if(previous_photo !== null)
-        this.photos[previous_photo].next = current_photo.id;
-
-      previous_photo = current_photo.id;
-    }
-  },
-
-  add_photo_to_frame: function (event) {
-    event.preventDefault();
-    var target = event.target;
-    if (typeof target.href === 'undefined')
-      target = event.target.parentNode;
-
-    this.start_loading();
-    this.set_current_photo(this.photos[target.id]);
-
-    this.set_navigation_link( this.link_to_previous_photo, this.previous_photo() );
-    this.set_navigation_link( this.link_to_next_photo, this.next_photo() );
-    this.set_facebook_button();
-
-    this.display_frame();
-  },
-
-  set_current_photo: function (photo) {
-    this.current_photo = photo;
-    this.frame_image(this.current_photo.href);
-  },
-  /*
-  *  Crée figure#frame et dedans figcaption + img + a.next + a.previous
-  *  puis l'ajoute à body
-  */
-  create_frame: function(frame_name) {
-    this.frame = document.createElement('figure');
-    this.frame.id = frame_name;
-
-    this.frame_title = document.createElement('figcaption');
-    this.frame.appendChild( this.frame_title );
-    this.displayed_photo = document.createElement('img');
-    this.frame.appendChild( this.displayed_photo );
-    this.displayed_photo.addEventListener('load', this.photo_downloaded.bind(this), false);
-
-    this.link_to_previous_photo = this.create_navigation_link('Photo précédente', 'fa fa-arrow-left', 'prev');
-    this.link_to_next_photo = this.create_navigation_link('Photo suivante', 'fa fa-arrow-right', 'next');
-
-    this.facebook_like = this.create_facebook_like();
-    document.body.appendChild( this.frame );
-  },
-
-  create_navigation_link: function(title, className, rel) {
-    var link = document.createElement('a');
-    link.title = title;
-    link.alt = title;
-    link.className += ' '+className;
-    link.rel = rel;
-    link.addEventListener('click', this.add_photo_to_frame.bind(this), false);
-    this.frame.appendChild( link );
-
-    return link;
-  },
-
-  create_facebook_like: function () {
-    var like = document.createElement('fb:like');
-    like.setAttribute('action', 'like');
-    like.setAttribute('layout', 'button_count');
-    like.setAttribute('share', 'false');
-    like.setAttribute('show-faces', 'false');
-    this.frame.appendChild(like);
-
-    return like;
-  },
-
-  /*
-  *  Crée div#overlay pour le fond noir
-  */
-  create_overlay: function () {
-    this.overlay = document.createElement('div');
-    this.overlay.id = 'overlay';
-    this.overlay.addEventListener('click', this.close_frame.bind(this), false);
-    document.body.appendChild(this.overlay);
-  },
-
-  set_navigation_link: function (link, photo) {
-    if (typeof photo === 'undefined')
-      return link.style.display = 'none';
-
-    link.href = photo.href;
-    link.id = photo.id;
-    link.style.display = 'initial';
-  },
-
-  previous_photo: function () {
-    return this.photos[this.current_photo.previous];
-  },
-
-  next_photo: function () {
-    return this.photos[this.current_photo.next];
-  },
-
-  frame_image: function(href) {
-    if(typeof href === 'undefined')
-      return this.frame.getElementsByTagName('img')[0].src;
-
-    this.displayed_photo.src = href;
-  },
-
-  display_frame: function () {
-    this.display_overlay();
-    this.frame.style.display = 'initial';
-  },
-
-  display_overlay: function () {
-    this.overlay.style.display = 'initial';
-  },
-
-  close_frame: function () {
-    this.frame.style.display = 'none';
-    this.overlay.style.display = 'none';
-  },
-
-  photo_downloaded: function () {
-    this.frame_title.textContent = this.current_photo.title;
-    this.displayed_photo.parentNode.style.margin = '-'+this.displayed_photo.height/2+'px 0 0 -'+this.displayed_photo.width/2+'px';
-  },
-
-  start_loading: function() {
-    this.frame_title.textContent = 'Loading…';
-  },
-
-  set_facebook_button: function () {
-    this.facebook_like.setAttribute('href', 'https://'+window.location.host+window.location.pathname);
-
-    FB.XFBML.parse(this.frame);
-  }
-};
-
-/*
-*  J'ajoute des fonctions facebook
-*  J'aimerai pouvoir en faire un plugin propre comme ci-dessous
-*/
-// Gallery.add_photo_to_frame_without_fb = Gallery.add_photo_to_frame;
-// Gallery.prototype.add_photo_to_frame = function(event) {
-//   event.preventDefault();
-//   this.add_photo_to_frame_without_fb(event);
-
-// };
-
-function Photo(node) {
-  this.node = node;
-  this.id = node.id;
-  this.href = node.href;
-  this.title = node.title;
+    $(document).keyup(function(e) {
+      if (e.keyCode == 27) { document.querySelector('#close_galleria').click(); }   // esc
+    });
+  });
 }
 
 addLoadEvent(flickr);

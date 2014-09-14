@@ -1,17 +1,8 @@
 ---
 layout: default
-comments: true
+comments: false
 googlemap: true
 ---
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&appId={{ site.facebook.app_id }}&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
 
 <style>
   #map-canvas {
@@ -21,14 +12,21 @@ googlemap: true
 
 <article role="article">
   <header>
-    <h1>{{ page.title }}</h1>
-    <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
-    <div class="fb-like" data-href="https://mpepito13.github.io{{ page.url }}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    <h1>
+      {{ page.title }}
+      <small>Publié le <time>{{ page.date | date: "le %d %B %Y" }}</time></small>
+    </h1>
+    <a href="" id="featured_image"><img src="" alt=""></a>
+    {% include photoset.html %}
   </header>
   
 
   {{ content }}
-  {% include photoset.html %}
 
   {% include comments.html %}
 </article>
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+  <script src="{{site.javascripts_path}}/galleria/galleria-1.4.2.js"></script>
+  <script src="{{site.javascripts_path}}/galleria/themes/classic/galleria.classic.min.js"></script>

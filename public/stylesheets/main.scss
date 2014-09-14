@@ -10,7 +10,6 @@
 @import 'pagination';
 @import 'infobox';
 @import 'footer';
-@import 'photoset';
 @import 'facebook-button';
 
 html, body {
@@ -32,13 +31,5 @@ h1, h2, h3 {
     font-size: .8rem;
     font-weight: 400;
     text-transform: capitalize;
-
-    // &:before {
-    //   content: ":: "
-    // }
   }
-}
-
-body > .container {
-  margin-top: 1rem;
 }

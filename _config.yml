@@ -29,8 +29,8 @@ flickr:
   api_key:        ea1f0ff4ce1b6df0d47a12e54e26f5af
 
 # Facebook vars
-facebook:
-  app_id:         702447933160068
+# facebook:
+  # app_id:         702447933160068
 
 # Dependencies
 markdown:         rdiscount
@@ -49,35 +49,35 @@ prose:
         field:
           element: "hidden"
           value: "post"
-          
+
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          
+
       - name: "country"
         field:
           element: "text"
           label: "Country"
-          
+
       - name: "latitude"
         field:
           element: "number"
           label: "Latitude"
           help: "Give me your coordinates so I can place a marker on the map."
-          
+
       - name: "longitude"
         field:
           element: "number"
           label: "Longitude"
-          
+
       - name: "places"
         field:
           element: "multiselect"
           label: "Places"
           help: "You can add multiple places which will appear beneath the country's name."
           alterable: true
-          
+
       - name: "photoset"
         field:
           element: "number"

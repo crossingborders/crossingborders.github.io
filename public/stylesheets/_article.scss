@@ -1,9 +1,23 @@
 article {
+  margin-top: -4.2rem;
+
   header {
-    small {
-      background-color: #ececec;
+    position: relative;
+
+    h1 {
+      background-color: rgba(35,35,35, .7);
+      color: rgb(233,233,233);
       padding: .3rem;
-      border-radius: 3px;
+      width: 100%;
+
+      small {
+        display: inline-block;
+      }
+    }
+
+    &:hover > [id~=featured_image] img {
+      box-shadow: rgba(0, 0, 0, 0.901961) 0px 0px 20px 0px;
+      -webkit-transition: box-shadow .2s;
     }
   }
 }
