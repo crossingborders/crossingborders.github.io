@@ -75,9 +75,7 @@ Hua Hin est un des repaires pour vieux blancs pervers à la recherche de chair a
 Il a été urgent pour moi de rapidement quitter ces endroits, avant que je n'émascule le moindre touriste à l'horizon.
 
 
-Bref, nous dirons donc 5 jours de trajet quasi non-stop, mais l'arrivée à **TONSAI** vaut bien ça :)
-
-Un paradis sur terre pour tout falaisiste qui se respecte :)
+Bref, nous dirons donc 5 jours de trajet quasi non-stop, mais l'arrivée à **TONSAI** vaut bien ça: un paradis sur terre pour tout falaisiste qui se respecte :)
 
 Tonsaï, une petite crique entourée de hautes falaises, est accessible depuis Railay, la crique voisine (bien plus touristique) par un petit chemin au milieu de la forêt.
 
