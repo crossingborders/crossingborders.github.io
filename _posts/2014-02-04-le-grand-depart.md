@@ -6,8 +6,8 @@ title: Le grand départ...
 country: France
 
 places:
-	- name: Marseille
-	- name: Paris
+  - name: Marseille
+  - name: Paris
 ---
 
 On est le 04 Février 2014 et je suis à Paris, dans le froid et sous la pluie, en route pour l'aéroport.
