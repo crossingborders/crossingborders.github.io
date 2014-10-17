@@ -19,7 +19,7 @@ Une fois acclimatée, **j'irai ensuite passer 15 jours au Myanmar** pour un 1er 
 A la fin de ces 6 premières semaines de voyage, **un retour rapide en France** est prévu.
 Puis un nouveau départ, **celui là pour une durée indéterminée et une destination encore inconnue!**
 
-J’ai du mal à réaliser ce que je suis en train de faire: **partir 2 ans faire le tour du monde, après avoir tout quitté**. Famille, amis, chien, travail, maison, affaires, habitudes, confort, sécurité,…
+Toutes ces années à en rêver... J’ai du mal à réaliser ce que je suis en train de faire: **partir 2 ans faire le tour du monde, après avoir tout quitté**. Famille, amis, chien, travail, maison, affaires, habitudes, confort, sécurité,…
 Pourtant, je suis bien là, à l’aéroport, mes sacs sur le dos et les billets à la main, prête à quitter mon petit monde bien douillé, direction l’inconnu. **Mon rêve de gosse est en train de se réaliser…**
 
 Depuis que j'ai quitté Marseille (ville dans laquelle je suis née et où se trouve toujours mon coeur) et dit aurevoir à ma famille, mon cerveau est en ébullition: tant d'émotions s'entrechoquent que je n'arrive pas à savoir ce que je ressens vraiment.
