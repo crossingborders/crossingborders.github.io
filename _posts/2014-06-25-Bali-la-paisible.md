@@ -3,7 +3,7 @@ layout: post
 
 title: Bali la paisible
 
-country: Indonesie
+country: Bali
 
 places:
   - name: Padang Padang
