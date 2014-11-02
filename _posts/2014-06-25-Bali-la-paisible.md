@@ -10,9 +10,9 @@ places:
   - name: Bingin beach
   - name: Ubud
   - name: Nusa Lembongan
-
-photoset: 72157648653197962
 ---
+photoset: 72157648653197962
+
 
 Après ces quelques mois de voyage en groupe, me voilà en tête-à-tête avec moi-même pour les 2 prochains mois.
 
