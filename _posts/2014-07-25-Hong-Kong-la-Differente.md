@@ -3,7 +3,7 @@ layout: post
 
 title: Hong Kong la differente
 
-country: Chine (Hong Kong)
+country: Hong Kong
 
 places:
   - name: Hong Kong
