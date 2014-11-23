@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bali la paisible
-country: Indonesia
+country: Bali
 places: 
   - name: Padang Padang
   - name: Bingin beach
