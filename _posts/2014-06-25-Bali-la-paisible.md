@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Bali la paisible
-country: Bali
+country: Indonesia
 places: 
   - name: Padang Padang
   - name: Bingin beach
   - name: Ubud
   - name: Nusa Lembongan
 published: true
-photoset: 72157648653197962
+photoset: 72157648653197970
 ---
 
 Après ces quelques mois de voyage en groupe, me voilà en tête-à-tête avec moi-même pour les 2 prochains mois.
