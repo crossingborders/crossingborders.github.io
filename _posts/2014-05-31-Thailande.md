@@ -3,7 +3,7 @@ layout: post
 
 title: Thailande, du nord au sud
 
-country: Thailande
+country: Thaïlande
 
 places:
   - name: Chiang Mai
