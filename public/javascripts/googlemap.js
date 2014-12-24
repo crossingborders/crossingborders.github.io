@@ -16,11 +16,11 @@ function googlemap() {
   geocoder = new google.maps.Geocoder();
   
 {% for post in site.posts %}
-  geocoder.geocode({'address': "{{ post.location }}"}, function (results, status) {
+  geocoder.geocode({'address': "{{ post.zone }}"}, function (results, status) {
     if (status == google.maps.GeocoderStatus.OK) {
       var location = results[0];
       var latlng = location.geometry.location;
-      var active_marker = (location == '{{post.location}}')? true : false;
+      var active_marker = (zone == '{{post.zone}}')? true : false;
 
       map.addMarker(createMarker(location.address_components[0].long_name, latlng, active_marker));
     }

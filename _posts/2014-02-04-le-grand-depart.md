@@ -1,10 +1,7 @@
 ---
 layout: post
-
 title: Le grand départ...
-
-country: France
-
+zone: France
 places:
   - name: Marseille
   - name: Paris
