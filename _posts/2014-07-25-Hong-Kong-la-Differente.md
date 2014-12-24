@@ -1,14 +1,11 @@
 ---
 layout: post
-
 title: Hong Kong la differente
-
 country: Hong Kong
-
-places:
+places: 
   - name: Hong Kong
-
 photoset: 72157648254497500
+published: false
 ---
 
 La veille de mon départ de Bali, traînant toujours la patte, je suis à deux doigts de ne pas prendre l'avion.
