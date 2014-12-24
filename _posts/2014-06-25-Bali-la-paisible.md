@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bali la paisible
-location: Bali
+zone: Bali
 published: true
 photoset: 72157648653197970
 ---

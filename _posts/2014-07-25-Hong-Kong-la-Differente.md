@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hong Kong la differente
-location: Hong Kong
+zone: Hong Kong
 photoset: 72157648254497500
 published: true
 ---

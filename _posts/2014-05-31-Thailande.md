@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thaïlande, du nord au sud"
-location: Thaïlande
+zone: Thaïlande
 photoset: 72157648583988560
 published: true
 places: 
