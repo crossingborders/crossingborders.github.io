@@ -5,7 +5,7 @@ country: Hong Kong
 places: 
   - name: Hong Kong
 photoset: 72157648254497500
-published: false
+published: true
 ---
 
 La veille de mon départ de Bali, traînant toujours la patte, je suis à deux doigts de ne pas prendre l'avion.
