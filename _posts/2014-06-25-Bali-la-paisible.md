@@ -2,11 +2,6 @@
 layout: post
 title: Bali la paisible
 country: Bali
-places: 
-  - name: Padang Padang
-  - name: Bingin beach
-  - name: Ubud
-  - name: Nusa Lembongan
 published: true
 photoset: 72157648653197970
 ---
