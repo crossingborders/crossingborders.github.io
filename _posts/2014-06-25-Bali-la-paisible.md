@@ -2,7 +2,7 @@
 layout: post
 title: Bali la paisible
 country: Bali
-published: false
+published: true
 photoset: 72157648653197970
 ---
 
