@@ -1,17 +1,14 @@
 ---
 layout: post
-
-title: Thailande, du nord au sud
-
+title: "Thaïlande, du nord au sud"
 country: Thaïlande
-
-places:
+places: 
   - name: Chiang Mai
   - name: Pai
   - name: Sukhothai
   - name: Tonsai
-
-photoset: 72157648583988556
+photoset: 72157648583988560
+published: true
 ---
 
 Après avoir profité de la famille et des amis pendant un bon mois et demi en France, me voilà de retour à Bangkok.
