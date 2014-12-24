@@ -55,21 +55,22 @@ prose:
           element: "text"
           label: "Title"
 
-      - name: "country"
+      - name: "location"
         field:
           element: "text"
-          label: "Country"
+          label: "Location"
+          help: "I use this location to place the google's marker."
 
-      - name: "latitude"
-        field:
-          element: "number"
-          label: "Latitude"
-          help: "Give me your coordinates so I can place a marker on the map."
+      # - name: "latitude"
+      #   field:
+      #     element: "number"
+      #     label: "Latitude"
+      #     help: "Give me your coordinates so I can place a marker on the map."
 
-      - name: "longitude"
-        field:
-          element: "number"
-          label: "Longitude"
+      # - name: "longitude"
+      #   field:
+      #     element: "number"
+      #     label: "Longitude"
 
       - name: "places"
         field:
