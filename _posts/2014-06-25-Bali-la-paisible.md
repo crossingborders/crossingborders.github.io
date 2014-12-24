@@ -4,6 +4,8 @@ title: Bali la paisible
 country: Bali
 published: true
 photoset: 72157648653197970
+places: 
+  - Bali
 ---
 
 Après ces quelques mois de voyage en groupe, me voilà en tête-à-tête avec moi-même pour les 2 prochains mois.
