@@ -55,11 +55,11 @@ prose:
           element: "text"
           label: "Title"
 
-      - name: "location"
+      - name: "zone"
         field:
           element: "text"
-          label: "Location"
-          help: "I use this location to place the google's marker."
+          label: "Zone"
+          help: "I use this to place the google's marker."
 
       # - name: "latitude"
       #   field:
