@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Hong Kong la differente
-zone: Hong Kong
+country: Hong Kong
+places: 
+  - name: Hong Kong
 photoset: 72157648254497500
 published: true
 ---
