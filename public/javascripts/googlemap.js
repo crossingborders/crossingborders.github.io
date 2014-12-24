@@ -16,14 +16,13 @@ function googlemap() {
   geocoder = new google.maps.Geocoder();
   
 {% for post in site.posts %}
-
   geocoder.geocode({'address': "{{ post.country }}"}, function (results, status) {
     if (status == google.maps.GeocoderStatus.OK) {
       var location = results[0];
       var latlng = location.geometry.location;
       var active_marker = (country == '{{post.country}}')? true : false;
 
-      map.addMarker(createMarker(location.formatted_address, latlng, active_marker));
+      map.addMarker(createMarker(location.address_components[0].long_name, latlng, active_marker));
     }
   });
 {% endfor %}
