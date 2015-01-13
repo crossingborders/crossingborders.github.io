@@ -24,7 +24,7 @@ En terme de population, Hong-Kong est l'un des territoires les plus peuplés au 
 Niveau emploi, une économie libérale et une fiscalité attractive font que le taux de chômage y est extrêmement bas.
 
 Lorsque je débarque à Hong-Kong et me retrouve à **Tsim Sha Tsui** (TST pour les intimes), je me demande si je ne me suis pas trompée de planète: des gratte ciels à perte de vue, du bruit, de la pollution et des masses de gens pressés à perte de vue...  
-J'ai réservé sur internet une chambre dans l'endroit le plus sordide que je n'ai jamais vu: Chungking Mansion.  
+J'ai réservé sur internet une chambre dans Chungking Mansion, qui se révele etre l'endroit le plus sordide que je n'ai jamais vu.  
 Le bâtiment, sensé être résidentiel, est apparemment connu des touristes comme l'un des endroits les moins chers de Hong Kong en terme de logement.  
 On y trouve, en plus des innombrables guesthouses, des restaurants Indiens, des bistros Africains, des vendeurs de téléphones portables et des offices de change.  
 La population qui fréquente ce bâtiment est principalement composée de minorités ethniques venant du Sud de l'Asie (Indiens, Népalais, Pakistanais, Sri Lankais,...), du Moyent Orient ou du Nigéria. Il y aurait 4000 personnes vivant dans ce seul bâtiment!  
