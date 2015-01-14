@@ -2,8 +2,14 @@
 layout: post
 title: "5. Bali, l'ile paisible"
 zone: Bali
-published: true
 photoset: 72157648653197970
+places:
+  - name: Padang Padang
+  - name: Uluwatu
+  - name: Bingin beach
+  - name: Ubud
+  - name: Nusa Lembongan
+published: true
 ---
 
 Après ces quelques mois de voyage en groupe, me voilà en tête-à-tête avec moi-même pour les 2 prochains mois.
