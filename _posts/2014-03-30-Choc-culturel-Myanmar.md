@@ -17,11 +17,11 @@ J'avais été prévenue que **le Myanmar, c'est la Thaïlande d'il y a 60 ans**,
 Ces 15 jours auront été l'occasion pour l'apprentie voyageuse que je suis d'enfin prendre ses premières leçons de globetrotteuse.
 
 Le programme, encore non défini lorsque nous arrivons à Yangon, sera finalement le suivant:  
-	*  1 semaine à Yangon, l'ex-capitale,  
-	*  2 jours à Bagan, la région des temples,  
-	*  2 jours au lac Inle, un lac sur lequel vivent des tribus de pêcheurs, dans des 		 villages sur pilotis.  
+*  1 semaine à Yangon, l'ex-capitale,  
+*  2 jours à Bagan, la région des temples,  
+*  2 jours au lac Inle, un lac sur lequel vivent des tribus de pêcheurs, dans des villages sur pilotis.
 
-Le vol Bangkok/Yangon se déroule sans encombre. Nous posons nos sacs dans un petit hôtel simple et propre, légèrement excentré, dans le nord de la ville.
+Le vol Bangkok/Yangon se déroule sans encombre. Nous posons nos sacs dans un petit hôtel simple et propre, légèrement excentré, dans le nord de la ville.  
 Le soir de notre arrivée à **Yangon**, nous partons balader et tombons par hasard sur une fête foraine. Les locaux nous regardent arriver, surpris mais accueillants: tous nous observent d'un air curieux et nous sourient, les enfants nous montrent du doigt.   
 La grande roue, illuminée par des ampoules et des néons, trône au milieu d'un petit terrain vague. Nous nous arrêtons pour observer le spectacle.  
 Les gens s'installent dans les nacelles. Une fois tous les sièges occupés, quelques hommes, habiles comme des singes et rapides comme l'éclair, grimpent au sommet de la roue et la mette en branle en faisant contrepoids avec leurs corps.  
