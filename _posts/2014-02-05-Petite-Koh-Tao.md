@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. La petite Koh Tao
+title: "2. La petite Koh Tao"
 zone: Koh Tao
 photoset: 72157648230803060
 published: true
