@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3. Choc culturel au Myanmar
+title: "3. Choc culturel au Myanmar"
 zone: Myanmar
 photoset: 72157648248658140
 places: 
