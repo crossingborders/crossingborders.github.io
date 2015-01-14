@@ -3,12 +3,12 @@ layout: post
 title: "4. La Thaïlande du Nord au Sud"
 zone: Thaïlande
 photoset: 72157648583988560
-published: true
 places: 
   - name: Chiang Mai
   - name: Pai
   - name: Sukhothai
   - name: Tonsai
+published: true
 ---
 
 Me voilà de retour à Bangkok.  
