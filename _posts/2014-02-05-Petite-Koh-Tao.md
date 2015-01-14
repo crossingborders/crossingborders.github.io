@@ -3,11 +3,11 @@ layout: post
 title: "2. La petite Koh Tao"
 zone: Koh Tao
 photoset: 72157648230803060
-published: true
 places: 
   - name: Koh Samui
   - name: Koh Phangan
   - name: Bangkok
+published: true
 ---
 
 Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
