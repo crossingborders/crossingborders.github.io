@@ -11,7 +11,7 @@ J'ai acheté mon billet en pensant rendre visite à un couple d'amis, aller grim
 
 Finalement, la curiosité l'emporte: je ne suis pas fan des grandes villes, mais à quoi peut bien ressembler la vie là bas?
 
-**Hong-Kong**, pôle financier et commercial international, est la ville la plus riche de Chine. Elle en est aussi radicalement différente: elle a son propre système légal, sa monnaie, ses équipes sportives internationales, ... Elle est coupée de la Chine (mainland China) par une frontière et se bat aujourd'hui pour conserver son indépendance et sa liberté.  
+**Hong-Kong**, pôle financier et commercial international, est la ville la plus riche de Chine. Elle en est aussi radicalement différente: elle a son propre système légal, sa monnaie, ses équipes sportives internationales,... Elle est coupée de la Chine (mainland China) par une frontière et se bat aujourd'hui pour conserver son indépendance et sa liberté.  
 Niveau géographique, la région se découpe en trois grandes zones:  
 * **L'île**, dans le Sud, est une zone assez montagneuse et très prisée. Central et Wan Chai sont les quartiers les plus riches de la région.  
 * De l'autre côté du port Victoria (Victoria Harbour) se trouve la péninsule de **Kowloon**. C'est la zone la plus peuplée (Mongkok serait même l'un des quartiers les plus denses au monde).  
