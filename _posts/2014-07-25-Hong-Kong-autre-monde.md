@@ -2,7 +2,7 @@
 layout: post
 title: "6. Hong Kong, l'autre monde"
 zone: Hong Kong
-photoset: 72157648254497500
+photoset: "72157648254497500"
 places:
   - name: Tsim Sha Tsui
   - name: Mongkok
