@@ -2,7 +2,7 @@
 layout: post
 title: "3. Choc culturel au Myanmar"
 zone: Myanmar
-photoset: "72157648248658140"
+photoset: "72157648248658149"
 places: 
   - name: Yangon
   - name: Bagan
