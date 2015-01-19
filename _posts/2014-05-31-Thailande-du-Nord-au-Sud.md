@@ -2,7 +2,7 @@
 layout: post
 title: "4. La Thaïlande du Nord au Sud"
 zone: Thaïlande
-photoset: 72157648583988560
+photoset: "72157648583988556"
 places: 
   - name: Chiang Mai
   - name: Pai
