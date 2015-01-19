@@ -2,8 +2,10 @@
 layout: post
 title: "5. Bali, l'ile paisible"
 zone: Bali
-photoset: 72157648653197970
-places:
+photoset: 
+  - "72157648653197962"
+  - 72157648653197970
+places: 
   - name: Padang Padang
   - name: Uluwatu
   - name: Bingin beach
