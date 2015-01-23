@@ -41,8 +41,8 @@ gems:
 # Prose
 prose:
   rooturl: '_posts'
-  siteurl: 'http://mpepito13.github.io/'
-  relativeLinks: 'http://mpepito13.github.io/links.jsonp'
+  siteurl: 'http://crossingborders.github.io/'
+  relativeLinks: 'http://crossingborders.github.io/links.jsonp'
   metadata:
     _posts:
       - name: "layout"
