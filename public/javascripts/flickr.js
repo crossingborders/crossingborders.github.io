@@ -26,7 +26,7 @@ function photoset_downloaded () {
     var photo = photoset.photo[i];
 
     photos.push({ thumb: photo.url_t, 
-                  image: photo.url_o,
+                  image: photo.url_m,
                   big: photo.url_o,
                   original: photo.url_o,
                   title: photo.title });
