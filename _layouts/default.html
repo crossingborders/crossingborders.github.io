@@ -16,6 +16,18 @@
     {{ content }}
   </div>
   
+  <div id="page-navigation">
+    {% if page.previous.url %}
+     <a href="{{page.previous.url}}" title="Voyage précédent: 
+        {{page.previous.title}}" style="float: left">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+
+   {% if page.next.url %}
+    <a href="{{page.next.url}}" title="Voyage suivant: 
+    {{page.next.title}}" style="float: right">{{page.next.title}} &raquo; </a>
+   {% endif %}
+  </div>
+  
   {% include footer.html %}
 </body>
 </html>
