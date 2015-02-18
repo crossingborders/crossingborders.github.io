@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. Choc culturel au Myanmar"
+title: "3. Choc culturel au Myanmar / cultural chock in Myanmar"
 zone: Myanmar
 photoset: "72157648248658149"
 places: 
