@@ -12,7 +12,7 @@ places:
 published: true
 ---
 
-Cela fait quelaues mois aue je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
+Cela fait quelques mois aue je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
 
 Faire ses premiers pas seule, dans ce monde si vaste, est une expérience que beaucoup redoutent (moi inclus).  
 **Aucun endroit où se cacher pour ne pas affronter l'inconnu... Être responsable de sa vie, au sens entier du terme, dans un environnement dont on ne connaît pas les règles, les coutumes, la façon de vivre...**  
@@ -47,22 +47,22 @@ N'ayant pour l'heure plus rien à faire en bord de mer, je pars dans l'intérieu
 Ubud est un peu **le centre culturel de l'île**: on peut y apprendre la dance, la sculpture, la peinture et la cuisine traditionnelles balinaises, le batik, la fabrication de bijous, la poterie, le yoga, la méditation, ... C'est un endroit certes très touristique, mais néanmoins plaisant.  
 Ma petite guesthouse, à l'extérieur de la ville, est accueillante, **les voyageurs que j'y croise sont simples et vraiment gentils**.  
 Je m'adonne à quelques activités touristiques, telles que la **visite de la monkey forest (qui porte bien son nom) et de plusieurs temples alentours**.  
-Je rencontre bientot une sorte de "sage" balinais qui m'enseigne quelques lecons basiques de bouddhisme que je vous livre en vrac ici:
-* Il m'explique la satisfaction qu'il a a vivre a un rythme lent, a prendre le temps d'apprecier les choses simples, la gratification qu'il ressent a accomplir quelque chose quand il prend le temps de bien la faire.  
-* Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualite de notre vie par rapport a la quantite de choses que nous arrivons a faire en une journee, alors qu'a Bali ce qui compte c'est de prendre le temps de faire chaque chose de la facon la plus "belle" possible. Il m'avoue qu'il nous trouve droles a courir partout sans forcement savoir pourquoi, qu'il trouve etonnant que chaque chose que nous faisons, meme les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, interet, amour et precision.  
-* Il me parle de l'importance qu'il accorde a la meditation, au laisser-aller, a prendre du recul avant d'agir.  
-* Il me rappelle que nous ne pouvons pas decider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions profiter de ce que la vie nous donne car selon ses croyances, ce qui est sense arriver arrivera.
-* Il me raconte l'importance au'il accorde a trouver le bon dans ce qui pourrait paraitre mauvais au premier abord.  
+**Je rencontre bientot une sorte de "sage" balinais qui m'enseigne quelques principes de vie balinais** que je vous livre en vrac ici:
+* Il m'explique **la satisfaction qu'il a a vivre a un rythme lent**, a prendre le temps d'apprecier les choses simples, la gratification qu'il ressent a accomplir quelque chose quand il prend le temps de bien la faire.  
+* Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualite de notre vie par rapport a la quantite de choses que nous arrivons a faire en une journee, alors qu'a Bali ce qui compte c'est de **prendre le temps de faire chaque chose de la facon la plus "belle" possible**. Il m'avoue qu'il nous trouve droles a courir partout sans forcement savoir pourquoi, qu'il trouve etonnant que chaque chose que nous faisons, meme les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, interet, amour et precision.  
+* Il me parle de l'importance qu'il accorde a **la meditation, au laisser-aller, a prendre du recul avant d'agir**.  
+* Il me rappelle que nous ne pouvons pas decider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui est sense arriver arrivera**.
+* Il me raconte l'importance au'il accorde a **trouver le bon dans ce qui pourrait paraitre mauvais au premier abord**.  
 
 Avec tout ca en tete et rien de prevu, je decide d'essayer de vivre selon ces principes.  
-J'arpente le centre ville a pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. Je prend le temps de m'arreter et de discuter avec eux. A mon excuse banale " desolee, je n'ai pas d'argent", ils me repondent en coeur "pas d'argent, pas de miel". Une vendeuse me propose meme un travail et veux me donner des commissions pour chaque client que je ramenerais sur son stand!  
+J'arpente le centre ville a pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. **Je prend le temps de m'arreter et de discuter avec eux**. A mon excuse banale " desolee, je n'ai pas d'argent", ils me repondent en coeur "pas d'argent, pas de miel". Une vendeuse me propose meme un travail et veux me donner des commissions pour chaque client que je ramenerais sur son stand!  
 **Je me promène, toujours lentement, au milieu de rizières magnifiques** dans le nord de la ville et remarque les couleurs, les odeurs, la brise, les sons de la nature. Je trouve un petit warung et m'y installe pour savourer un chocolat chaud en apreciant la vue sur les rizieres et en observant les animaux qui vivent la.  
-J'accepte ma blessure et decide qu'elle me permet de m'entrainer a etre patiente, d'apprendre a prendre le temps, a arreter de courir partout.
-Une semaine entiere passe sans que je m'en apercoive. Au final, cet homme avait raison: les petites choses peuvent prendre beaucoup de temps si on fait attention a bien les faire!
+J'accepte ma blessure et decide qu'elle me permet de m'entrainer a etre patiente, d'apprendre a prendre le temps.
+**Une semaine entiere passe sans que je m'en apercoive**. Au final, cet homme avait raison: les petites choses peuvent prendre beaucoup de temps si on fait attention a bien les faire!
 
 
-Après cet intermède montagneux, retour à la mer.  
-Je passe une semaine sur **Nusa Lembongan**, une petite île au Sud-Est de Bali accessible depuis Sanur (bourgade touristique tranquille sur la côte Est). Là aussi, la guesthouse est accueillante et le rythme de vie paisible.  
+Après cet intermède spirituel montagneux, retour à la mer.  
+Je passe une semaine sur **Nusa Lembongan** (l'oeuf, vous vous souvenez?), une petite île au Sud-Est de Bali accessible depuis Sanur (bourgade touristique tranquille sur la côte Est). Là aussi, la guesthouse est accueillante et le rythme de vie paisible.  
 Mes journées sont rythmées par des **balades tranquilles à destination de belles plages désertiques** (Mushroom bay, Dream beach, Sunset beach).  
 Je reprend le **yoga** tant bien que mal et participe à une **séance de nettoyage de la plage principale** qui me permet de rencontrer des locaux. Quelques heures plus tard, je suis invitée à partager un verre d'arak, boisson locale fabriquée à base d'alcool de palme au goût abominable et à l'odeur capable de réveiller un mort. La soirée que je passe en leur compagnie est gaie, bruyante et animée, j'en garderai un bon souvenir (malgré le mal de crâne du lendemain!).
 
@@ -73,7 +73,7 @@ La nuit, les bars s'animent et se remplissent des mêmes surfeurs, baigneurs et 
 Après ces quelques semaines de calme absolu, je ne suis pas à mon aise ici. Heureusement, cette "épreuve" est de courte durée.
 
 Au final, **j'ai vécu à Bali des moments d'une richesse extraordinaire et appris autant sur l'île et ses habitants que sur moi-même**: j'ai goûté à la patience, touché du doigt la sérénité, senti la pureté, vu la sagesse et entendu le calme.  
-J'ai côtoyé des locaux, essayé d'appréhender leur culture.  
+J'ai côtoyé des locaux, appris un peu de leur culture.  
 J'ai fais connaissance avec des voyageurs intéressants et sympathiques, recroisé par hasard des gens que rencontrés en Thaïlande.  
 J'ai râlé et pesté contre cette nouvelle blessure qui ne veut pas guérir. Aujourd'hui, je me dis qu'elle m'aura forcée à me poser, à arrêter de courir pour tout voir sans rien voir.
 
@@ -129,12 +129,18 @@ Having nothing to do on the seafront for the time being, I go inland, to **Ubud*
 Ubud is a bit the **island's cultural center**: one can learn dancing, carving, traditional Balinese painting and cooking, batik, making jewelry, pottery, yoga, meditation ... It is certainly a very touristic place, but still pleasant.  
 My little guesthouse, outside the city, is welcoming, and **I get to meet simple and really nice travelers** there.  
 I engage in some tourist activities such as **visiting the monkey forest (which bears its name) and several surrounding temples**.  
-**I soon meet a kind of "shaman" who shares with me some basic buddhist lessons** on how filling it can be to live at slow pace and take the time to enjoy simple things, on the importance of meditation, of letting go, of taking a step back before taking an action. He tells me about how he finds crazy the way we white people tend to judge the quality of our life on the number of things we can pile up in a day, without taking the time to do any of them in the most "beautiful" way possible. He tells me how funny he thinks we are, running around like headless chickens, not understanding that any of the things we do, even the smallest and most insignificant ones, can be done with attention, patience, interest, love and precision. And that by doing so we would feel rewarded for every little thing we accomplish. He reminds me of how we can not decide of everything so there is no need to overstress for everything, of how we would be better to enjoy what life gives us, of how what is supposed to happen happens, of how there is always good even out of what looks bad at first.  
-With all that in mind and no much plan, I decide to give a try to his way of seeing things. I slowly walk downtown, wander in **the market** overcrowded by tourists and invasive traders. I take the time to stop and talk for a minute. My excuse for not buying - "Sorry, I have no money" - is echoed by their funny answer - "No money, no honey" -. One of them even offers me a job and wants to give me a commission for every customer I could bring her!  
+**I soon meet a kind of "wise" balinese man who shares with me some balinese principles** that I am listing here:  
+* he explains how **filling it can be to live at slow pace**, to take the time to enjoy simple things, the rewarding feeling he has for every little thing he takes enough time to accomplish properly.  
+* He tells me he feels that we european tend to judge the quality of our life on the number of things we can pile up in a day, while in Bali what counts is to **take the time to do things in the most "beautiful" way possible**. He admits he finds us funny, running around like headless chickens, and he is surprised that we do things, even the smallest and most insignificant ones, without attention, patience, interest, love and precision.  
+* He speaks about the importance that **meditating, letting go, taking a step back before taking an action** have for him.  
+* He reminds me that as we can not decide of everything, there is no need to overstress for everything. That we should **enjoy what life gives us because, according to his beliefs, what is to happen happens**.  
+* He tells me about how important it is to him to ***always find good even out of what looks bad at first**.  
+
+With all that in mind and no much plan, I decide to give a try to his way of seeing things.  
+I slowly walk downtown, wander in **the market** overcrowded by tourists and invasive traders. **I take the time to stop and talk for a minute**. My excuse for not buying - "Sorry, I have no money" - is echoed by their funny answer - "No money, no honey" -. One of them even offers me a job and wants to give me a commission for every customer I could bring her!  
 **I slowly walk among beautiful rice fields** in the north of town and notice the colours, the smells, the breeze, the sounds of nature. I find a nice little warung and stop for a hot chocolate, enjoying the view on the fields and observing the surrounding wildlife.  
 I accept my injury and decide it has happened so I could learn about taking my time, stop running around and train my patience.  
-A whole week goes without me seeing it. In the end, this man was right: little things can keep you very busy if you pay attention to them!
-
+A whole week goes without me seeing it. In the end, this man was right: little things can keep you very busy if you pay attention to them!  
 
 After this mountain spiritual interlude, I am back to the seafront.  
 I spend a week on **Nusa Lembongan**, a small island in the southeast of Bali (remember the chicken egg?), accessible from Sanur (a quiet tourist town on the east coast). Again, the guesthouse is welcoming and life leisurely.  
