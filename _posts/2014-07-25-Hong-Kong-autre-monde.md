@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6. Hong Kong, l'autre monde"
+title: "6. Hong Kong, l'autre monde / Hong Kong, the other planet"
 zone: Hong Kong
 photoset: "72157648254497500"
 places:
