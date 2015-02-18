@@ -12,12 +12,12 @@ places:
 published: true
 ---
 
-Cela fait quelques mois aue je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
+Cela fait quelques mois que je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
 
 Faire ses premiers pas seule, dans ce monde si vaste, est une expérience que beaucoup redoutent (moi inclus).  
 **Aucun endroit où se cacher pour ne pas affronter l'inconnu... Être responsable de sa vie, au sens entier du terme, dans un environnement dont on ne connaît pas les règles, les coutumes, la façon de vivre...**  
-Quelle meilleure facon d'apprendre a me connaitre en profondeur que de me retrouver seule?
-Quelle meilleure facon pour tester mes capacités de globe trotteuse et pouvoir pretendre etre une voyageuse (plutot que de me cantonner au statut de touriste, plus facile et confortable, mais aussi plus limite) que de n'avoir personne de qui dependre?
+Quelle meilleure facon d'apprendre à me connaitre en profondeur que de me retrouver seule?
+Quelle meilleure facon pour tester mes capacités de globe trotteuse et pouvoir prétendre être une voyageuse (plutot que de me cantonner au statut de touriste, plus facile et confortable, mais aussi plus limité) que de n'avoir personne de qui dépendre?
 
 Et l'occasion se présente. Alors en avant pour 1 mois à **Bali**!
 
@@ -48,17 +48,17 @@ Ubud est un peu **le centre culturel de l'île**: on peut y apprendre la dance, 
 Ma petite guesthouse, à l'extérieur de la ville, est accueillante, **les voyageurs que j'y croise sont simples et vraiment gentils**.  
 Je m'adonne à quelques activités touristiques, telles que la **visite de la monkey forest (qui porte bien son nom) et de plusieurs temples alentours**.  
 **Je rencontre bientot une sorte de "sage" balinais qui m'enseigne quelques principes de vie balinais** que je vous livre en vrac ici:
-* Il m'explique **la satisfaction qu'il a a vivre a un rythme lent**, a prendre le temps d'apprecier les choses simples, la gratification qu'il ressent a accomplir quelque chose quand il prend le temps de bien la faire.  
-* Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualite de notre vie par rapport a la quantite de choses que nous arrivons a faire en une journee, alors qu'a Bali ce qui compte c'est de **prendre le temps de faire chaque chose de la facon la plus "belle" possible**. Il m'avoue qu'il nous trouve droles a courir partout sans forcement savoir pourquoi, qu'il trouve etonnant que chaque chose que nous faisons, meme les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, interet, amour et precision.  
-* Il me parle de l'importance qu'il accorde a **la meditation, au laisser-aller, a prendre du recul avant d'agir**.  
-* Il me rappelle que nous ne pouvons pas decider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui est sense arriver arrivera**.
-* Il me raconte l'importance au'il accorde a **trouver le bon dans ce qui pourrait paraitre mauvais au premier abord**.  
+* Il m'explique **la satisfaction qu'il a à vivre à un rythme lent**, à prendre le temps d'apprécier les choses simples, la gratification qu'il ressent à accomplir quelque chose quand il prend le temps de bien la faire.  
+* Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualité de notre vie par rapport à la quantité de choses que nous arrivons à faire en une journée, alors qu'à Bali ce qui compte c'est de **prendre le temps de faire chaque chose de la facon la plus "belle" possible**. Il m'avoue qu'il nous trouve droles à courir partout sans forcement savoir pourquoi, qu'il trouve étonnant que chaque chose que nous faisons, même les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, intéret, amour et précision.  
+* Il me parle de l'importance qu'il accorde à **la méditation, au laisser-aller, à prendre du recul avant d'agir**.  
+* Il me rappelle que nous ne pouvons pas décider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui est sensé arriver arrivera**.
+* Il me raconte l'importance qu'il accorde à **trouver le bon dans ce qui pourrait paraitre mauvais au premier abord**.  
 
-Avec tout ca en tete et rien de prevu, je decide d'essayer de vivre selon ces principes.  
-J'arpente le centre ville a pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. **Je prend le temps de m'arreter et de discuter avec eux**. A mon excuse banale " desolee, je n'ai pas d'argent", ils me repondent en coeur "pas d'argent, pas de miel". Une vendeuse me propose meme un travail et veux me donner des commissions pour chaque client que je ramenerais sur son stand!  
-**Je me promène, toujours lentement, au milieu de rizières magnifiques** dans le nord de la ville et remarque les couleurs, les odeurs, la brise, les sons de la nature. Je trouve un petit warung et m'y installe pour savourer un chocolat chaud en apreciant la vue sur les rizieres et en observant les animaux qui vivent la.  
-J'accepte ma blessure et decide qu'elle me permet de m'entrainer a etre patiente, d'apprendre a prendre le temps.
-**Une semaine entiere passe sans que je m'en apercoive**. Au final, cet homme avait raison: les petites choses peuvent prendre beaucoup de temps si on fait attention a bien les faire!
+Avec tout ca en tete et rien de prévu, je decide d'essayer de vivre selon ces principes.  
+J'arpente le centre ville à pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. **Je prend le temps de m'arrêter et de discuter avec eux**. A mon excuse banale " désolée, je n'ai pas d'argent", ils me répondent en coeur "pas d'argent, pas de miel". Une vendeuse me propose même un travail et veux me donner des commissions pour chaque client que je ramenerais sur son stand!  
+**Je me promène, toujours lentement, au milieu de rizières magnifiques** dans le nord de la ville et remarque les couleurs, les odeurs, la brise, les sons de la nature. Je trouve un petit warung et m'y installe pour savourer un chocolat chaud en apréciant la vue sur les rizieres et en observant les animaux qui vivent là.  
+J'accepte ma blessure et décide qu'elle me permet de m'entrainer à être patiente, d'apprendre à prendre le temps.
+**Une semaine entiere passe sans que je m'en apercoive**. Au final, cet homme avait raison: les petites choses peuvent prendre beaucoup de temps si on fait attention à bien les faire!
 
 
 Après cet intermède spirituel montagneux, retour à la mer.  
