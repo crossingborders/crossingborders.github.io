@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. France, le grand départ"
+title: "1. France, le grand départ / France, let the game begin"
 zone: France
 places: 
   - name: Marseille
@@ -17,7 +17,9 @@ J’ai du mal à réaliser ce que je suis en train de faire. **Partir 2 ans fai
 Pourtant, je suis bien là, à l’aéroport, mes sacs sur le dos et les billets à la main, prête à quitter mon petit monde bien douillé, direction l’inconnu.  
 **Mon rêve de gosse est en train de se réaliser!**
 
-Depuis que j'ai quitté Marseille (ville dans laquelle je suis née et où se trouve toujours mon coeur) et dit aurevoir à ma famille, mon cerveau est en ébullition. Tant d'émotions s'entrechoquent que je n'arrive pas à savoir ce que je ressens vraiment. D'un côté, **je suis excitée d'enfin parcourir notre vaste planète, partir à l'aventure, aller voir à quoi ressemble la vie ailleurs**. Après tout, je pars enfin réaliser ce dont je rêve depuis toute petite. De l'autre, **j'appréhende de perdre tous mes repères, d'affronter l'inconnu, de me retrouver face à moi même**. A presque 40 ans (eh oui!), ça n'est pas facile à envisager.  
+Depuis que j'ai quitté Marseille (ville dans laquelle je suis née et où se trouve toujours mon coeur) et dit aurevoir à ma famille, mon cerveau est en ébullition. Tant d'émotions s'entrechoquent que je n'arrive pas à savoir ce que je ressens vraiment.  
+* D'un côté, **je suis excitée d'enfin parcourir notre vaste planète, partir à l'aventure, aller voir à quoi ressemble la vie ailleurs**. Après tout, je pars enfin réaliser ce dont je rêve depuis toute petite.  
+* De l'autre, **j'appréhende de perdre tous mes repères, d'affronter l'inconnu, de me retrouver face à moi même**. A presque 40 ans (eh oui!), ça n'est pas facile à envisager.  
 Je décide de laisser la peur de côté: je pars avec 2 compagnons de voyage, dans un monde aujourd'hui connecté via internet. De plus, je dois repasser en France dans 1 mois et demi: rien de m'empêche d'y rester si j'en ressens le besoin.
 
 Pas besoin d'aller bien loin ni d'attendre bien longtemps avant d'être confronter au premier imprévu et de prendre une première leçon de vie.  
@@ -31,3 +33,35 @@ Nos bagages sont enfin enregistrés.
 Nous passons la douane, nous installons à nos places.  
 Les hôtesses déroulent les formalités de sécurité, l'avion décolle.  
 L'aventure peut commencer!!
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport.  
+I wear a light trousers, a short-sleeved shirt, a light hoody jacket, summer socks and my trail shoes (fortunately waterproof): all the warmest clothes I have in my backpack, yet huge.  
+I am soaked, freezing, but who cares! **In a few hours I fly to Koh Tao, in Thailand**.
+
+All those years I have dreamt about this...  
+I find it hard to realize what I am doing. **Going around the world for 2 years, having left everything behind**: family, friends, dog, work, home, business, habits, comfort, safety,...  
+Yet I am here, at the airport, bags on the back and tickets in hand, ready to leave my little comfy world towards the unknown.  
+**My childhood dream is coming true!**
+
+Since I left Marseille (city where I was born and where my heart still is) and said goodbye to my family, my brain is boiling. So many emotions collide I can not decide what I really feel:  
+* On one side **I am excited to finally travel our vast planet, adventure, see what life is like elsewhere.** After all, I finally do what I dream about since childhood.  
+* However, on the other side, **I fear losing my bearings, facing the unknown and myself.** At almost 40 years old (ouch!), it is not an easy thing to consider.  
+I decide to let fear aside: I leave with two friends for a world now connected via internet. Also, I have to return to France in one month and a half: nothing would then prevent me from staying there if I needed to.
+
+No need to go far or wait very long before confronting the first unexpected event and take a first life lesson.  
+At the boarding counter in Roissy, the employee asks for our ticket out of Thai territory. That, of course, we do not have: in the euphoria of departure, we have not given any administrative formality.  
+Never mind! We immediately book tickets over internet to meet the demands of this man and get on the plane. **We will go to Myanmar for two weeks early March.**  
+I am stunned: five minutes earlier, I did not know I would discover this country. Certainly, we had talked about this destination before, but about many others too!  
+This is the first time in my life that I feel so free.  
+All our life, we ​​learn to follow the movement: get an education, find a job, buy a home, start a family, save money, plan vacation in the coming year, wait for retirement to enjoy life without much constraint (providing that health is still good). At no time do we taste true freedom. And now, suddenly, I realize that I am free to do what I like, when I like, the way I like. Free to go left or right. Now or later. Free to have a program and change it at the last minute, or not to have one at all. **Totally, absolutely FREE.** Never have I felt so exhilarating feeling!  
+
+Our luggage are finally checked in.  
+We pass through customs, settle down and take our seats.  
+Hostesses follow security requirements, the plane takes off.  
+Adventure can begin!!
