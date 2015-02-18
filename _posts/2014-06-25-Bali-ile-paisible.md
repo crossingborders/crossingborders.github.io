@@ -48,16 +48,18 @@ Ubud est un peu **le centre culturel de l'île**: on peut y apprendre la dance, 
 Ma petite guesthouse, à l'extérieur de la ville, est accueillante, **les voyageurs que j'y croise sont simples et vraiment gentils**.  
 Je m'adonne à quelques activités touristiques, telles que la **visite de la monkey forest (qui porte bien son nom) et de plusieurs temples alentours**.  
 Je rencontre bientot une sorte de "sage" balinais qui m'enseigne quelques lecons basiques de bouddhisme que je vous livre en vrac ici:
-* Il m'explique la satisfaction qu'il peut y avoir a vivre a un rythme lent et prendre le temps d'apprecier les choses simples.  
+* Il m'explique la satisfaction qu'il a a vivre a un rythme lent, a prendre le temps d'apprecier les choses simples, la gratification qu'il ressent a accomplir quelque chose quand il prend le temps de bien la faire.  
+* Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualite de notre vie par rapport a la quantite de choses que nous arrivons a faire en une journee, alors qu'a Bali ce qui compte c'est de prendre le temps de faire chaque chose de la facon la plus "belle" possible. Il m'avoue qu'il nous trouve droles a courir partout sans forcement savoir pourquoi, qu'il trouve etonnant que chaque chose que nous faisons, meme les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, interet, amour et precision.  
 * Il me parle de l'importance qu'il accorde a la meditation, au laisser-aller, a prendre du recul avant d'agir.  
-* Il  me dit qu'il trouve fou que nous autres europeens puissions juger la qualite de notre vie par rapport a la quantite de choses qu'on arrive a faire en une journee, sans prendre le temps de rien faire de la facon la plus "belle" possible.  
-* Il m'avoue qu'ils nous trouve drole a courir partout sans forcement savoir pourquoi, qu'il trouve etonnant que chaque chose que nous faisons, meme les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, interet, amour et precision.  
-* Il m'explique que si nous prenions le temps, nous nous sentirions gratifies par chaque petite chose que nous accomplirions.  
-* Il me rappelle que nous ne pouvons pas decider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions profiter de ce que la vie nous donne car ce qui est sense arriver arrivera, et qu'il y a toujours du bon dans ce qui pourrait paraitre mauvais au premier abord.
-: j'y reste une semaine sans voir passer le temps.  
+* Il me rappelle que nous ne pouvons pas decider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions profiter de ce que la vie nous donne car selon ses croyances, ce qui est sense arriver arrivera.
+* Il me raconte l'importance au'il accorde a trouver le bon dans ce qui pourrait paraitre mauvais au premier abord.  
 
-J'arpente le centre ville, erre dans son marché bondé de touristes et de commerçants quelques peu envahissants.  
-**Je me promène au milieu de rizières magnifiques.**
+Avec tout ca en tete et rien de prevu, je decide d'essayer de vivre selon ces principes.  
+J'arpente le centre ville a pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. Je prend le temps de m'arreter et de discuter avec eux. A mon excuse banale " desolee, je n'ai pas d'argent", ils me repondent en coeur "pas d'argent, pas de miel". Une vendeuse me propose meme un travail et veux me donner des commissions pour chaque client que je ramenerais sur son stand!  
+**Je me promène, toujours lentement, au milieu de rizières magnifiques** dans le nord de la ville et remarque les couleurs, les odeurs, la brise, les sons de la nature. Je trouve un petit warung et m'y installe pour savourer un chocolat chaud en apreciant la vue sur les rizieres et en observant les animaux qui vivent la.  
+J'accepte ma blessure et decide qu'elle me permet de m'entrainer a etre patiente, d'apprendre a prendre le temps, a arreter de courir partout.
+Une semaine entiere passe sans que je m'en apercoive. Au final, cet homme avait raison: les petites choses peuvent prendre beaucoup de temps si on fait attention a bien les faire!
+
 
 Après cet intermède montagneux, retour à la mer.  
 Je passe une semaine sur **Nusa Lembongan**, une petite île au Sud-Est de Bali accessible depuis Sanur (bourgade touristique tranquille sur la côte Est). Là aussi, la guesthouse est accueillante et le rythme de vie paisible.  
