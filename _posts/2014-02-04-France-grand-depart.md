@@ -35,7 +35,7 @@ Les hôtesses déroulent les formalités de sécurité, l'avion décolle.
 L'aventure peut commencer!!
 
 
-:feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada:
+:feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada:
 
 
 _February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport._  
