@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. France, le grand départ / France, let the game begin"
+title: "1. France, le grand départ / France, let the games begin"
 zone: France
 places: 
   - name: Marseille
