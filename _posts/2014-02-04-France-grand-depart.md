@@ -35,7 +35,7 @@ Les hôtesses déroulent les formalités de sécurité, l'avion décolle.
 L'aventure peut commencer!!
 
 
-:feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet:
+:feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada:
 
 February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport.  
 I wear a light trousers, a short-sleeved shirt, a light hoody jacket, summer socks and my trail shoes (fortunately waterproof): all the warmest clothes I have in my backpack, yet huge.  
