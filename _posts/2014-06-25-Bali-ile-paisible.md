@@ -51,7 +51,7 @@ Je rencontre bientôt une sorte de "sage" qui m'enseigne **quelques principes de
 * Il m'explique **la satisfaction qu'il a à vivre à un rythme lent**, à prendre le temps d'apprécier les choses simples, la gratification qu'il ressent à accomplir quelque chose quand il prend le temps de bien la faire.  
 * Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualité de notre vie par rapport à la quantité de choses que nous arrivons à faire en une journée, alors qu'à Bali ce qui compte c'est de **faire chaque chose de la facon la plus "belle" possible**. Il m'avoue qu'il nous trouve droles à courir partout sans forcement savoir pourquoi, qu'il trouve étonnant que chaque chose que nous faisons, même les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, intérêt, amour et précision.  
 * Il me parle de l'importance de **méditer, lâcher-prise, prendre du recul avant d'agir**.  
-* Il me rappelle que nous ne pouvons pas décider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui doit arriver arrivera**.
+* Il me rappelle que nous ne pouvons pas décider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui doit arriver arrivera**.  
 * Il me raconte l'importance qu'il accorde à **trouver le bon dans ce qui pourrait paraitre mauvais au premier abord**.  
 Autant de concepts qui sont bien éloignés de ceux auxquels nous avons l'habitude! Je décide d'essayer de vivre au moins quelques jours selon ces principes.  
 J'arpente le centre ville à pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. **Je prend le temps de m'arrêter et de discuter avec eux**. A mon excuse banale " désolée, je n'ai pas d'argent", ils me répondent en coeur "pas d'argent, pas de miel". Une commerçante me propose un travail et des commissions pour chaque client que je ramènerais sur son stand!  
@@ -133,7 +133,7 @@ I soon meet a kind of "wise" balinese man who shares with me some **balinese bel
 * He tells me he feels that we european tend to judge the quality of our life on the number of things we can pile up in a day, while in Bali what counts is to **to do things in the most "beautiful" way possible**. He admits he finds us funny, running around like headless chickens, and he is surprised that we do things, even the smallest and most insignificant ones, without attention, patience, interest, love and precision.  
 * He speaks about the importance of **meditating, letting go, taking a step back before taking an action**.  
 * He reminds me that as we can not decide of everything, there is no need to overstress for everything. That we should **enjoy what life gives us because, according to his beliefs, what is to happen happens**.  
-* He tells me about how important it is to him to ***always find good even out of what looks bad at first**.  
+* He tells me about how important it is to him to **always find good even out of what looks bad at first**.  
 
 I decide to give a try to his way of seeing things, at least for a few days.  
 I slowly walk downtown, wander in **the market** overcrowded by tourists and invasive traders. **I take the time to stop and talk for a minute**. My excuse for not buying - "Sorry, I have no money" - is echoed by their funny answer - "No money, no honey" -. One of them offers me a job and commissions for every customer I could bring her!  
