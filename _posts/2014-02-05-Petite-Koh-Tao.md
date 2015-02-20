@@ -66,7 +66,7 @@ Ce petit je-ne-sais-quoi qui me perturbe, je ne l'identifierai que bien plus tar
 L'ombre d'un 2ème séjour se profile à l'horizon: et si je revenais visiter ce pays autrement après mon passage en France?
 
 
------------------------------------------------------------------------------------------------------------------------------
+:earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:
 
 
 February 5, 2014. We are in Roissy, happy to leave in the sun, excited to achieve this crazy project. The flight (Paris / Kuwait city / Bangkok) will take a few hours, but who cares, we have all the time in front of us!  
