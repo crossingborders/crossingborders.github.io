@@ -47,7 +47,7 @@ N'ayant pour l'heure plus rien à faire en bord de mer, je pars dans l'intérieu
 Ubud est un peu **le centre culturel de l'île**: on peut y apprendre la dance, la sculpture, la peinture et la cuisine traditionnelles balinaises, le batik, la fabrication de bijous, la poterie, le yoga, la méditation, ... C'est un endroit certes très touristique, mais néanmoins plaisant.  
 Ma petite guesthouse, à l'extérieur de la ville, est accueillante, **les voyageurs que j'y croise sont simples et vraiment gentils**.  
 Je m'adonne à quelques activités touristiques, telles que la **visite de la monkey forest (qui porte bien son nom) et de plusieurs temples alentours**.  
-Je rencontre bientôt une sorte de "sage" qui m'enseigne **quelques principes de vie balinais** que je vous livre en vrac ici:
+Je rencontre bientôt une sorte de "sage" qui m'enseigne **quelques principes de vie balinais** que je vous livre en vrac ici:  
 * Il m'explique **la satisfaction qu'il a à vivre à un rythme lent**, à prendre le temps d'apprécier les choses simples, la gratification qu'il ressent à accomplir quelque chose quand il prend le temps de bien la faire.  
 * Il  me dit qu'il a l'impression qu'en Europe nous jugeons la qualité de notre vie par rapport à la quantité de choses que nous arrivons à faire en une journée, alors qu'à Bali ce qui compte c'est de **faire chaque chose de la facon la plus "belle" possible**. Il m'avoue qu'il nous trouve droles à courir partout sans forcement savoir pourquoi, qu'il trouve étonnant que chaque chose que nous faisons, même les plus petites et les plus insignifiantes, nous ne les fassions pas avec attention, patience, intérêt, amour et précision.  
 * Il me parle de l'importance de **méditer, lâcher-prise, prendre du recul avant d'agir**.  
