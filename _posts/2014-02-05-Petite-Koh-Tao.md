@@ -81,7 +81,7 @@ It is in this pleasant place that we settle in a small homely resort for one mon
 Diving schools, restaurants, clothing or souvenirs shops and massage parlours line the main beach, **Sairee Beach**.  
 One thing surprises me quite quickly: I meet very few Thai. They usually own the restaurants or work in the massage parlours. I discover that the island is populated with tourists passing the PADI or discovering apnea, European (seasonal or permanent) living from diving, and Burmese coming to seek work.  
 This mix of cultures creates a warm, relaxed ambiance, calm and festive at the same time.  
-If Koh Tao is clearly not representative of Thailand, it is nevertheless very welcoming and a great place to live.  
+**If Koh Tao is clearly not representative of Thailand, it is nevertheless very welcoming and a great place to live.**  
 
 We quickly find our pace.  
 The day starts with a **delicious squeezed fruit juice** purchased from one of the many stalls found in the street.  
