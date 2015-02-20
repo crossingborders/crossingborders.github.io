@@ -43,7 +43,7 @@ Aujourd'hui, tous s'appliquent sur le visage et/ou les bras du thanaka, un produ
 Aujourd'hui, tous ou presque revêtent la tenue traditionnelle.  
 Aujourd'hui, peu de Birmans parlent anglais.  
 **Aujourd'hui, quand on va au Myanmar, on perd ses repères.**  
-Et demain?  
+**Et demain?**  
 Pour répondre aux exigences des touristes et plaire au plus grand nombre, tout ne risque t'il pas de finir par se ressembler? Hôtels banalisés, restos aux menus internationaux sans intérêt (à des prix largement au dessus des normes locales) commencent déjà à voir le jour. A côté des marchés locaux se construisent déjà des marchés dédiés aux étrangers, où bibelots et autres habits sont tous fabriqués en Chine...  
 Aujourd'hui, les enfants (et beaucoup d'adultes) portent sur nous des regards intrigués devant la pâle couleur de notre peau, notre accoutrement si étrange, notre façon de parler et notre gestuelle pour eux si comique. Un jour, ils auront peut être le sentiment que ces étrangers ont envahi leur pays, armés de leurs besoins pressés de confort, d'hygiène, de préjugés, de façons abruptes. Et que personne ne s'intéresse au fond à leur culture, leurs différences.  
 Je comprend, en tant qu'Européenne, l'intérêt du confort, le côté rassurant qu'il peut y avoir à retrouver des enseignes connues lorsque l'on est en territoire inconnu. Je souhaite bien entendu à la population birmane de voir ses conditions de vie s'améliorer.  Mais je vois tant de touristes qui n'ont pas l'air de s'intéresser au pays dans lequel ils viennent passer, disons, 15 jours de vacances: appareil photo démesuré et hors de prix autour du cou, ils photographient tout ce qu'ils voient, locaux compris, sans penser une seconde à demander leur accord. Comme s'ils étaient au zoo.  
@@ -127,7 +127,7 @@ Today, all spread thanaka on their face and/or arms, this white-yellowish herbal
 Today, almost all wear the traditional outfit.  
 Today, few Burmese speak English.  
 **Today, to go to Myanmar is to lose your bearings.**  
-And tomorrow?  
+**And tomorrow?**  
 To meet the demands of tourists and please the greatest number, isn't there a risk that everything is going to end up alike? Unmarked hotels, common international restaurants menus (at prices well above the local standards) are already beginning to emerge. Besides local markets, we can already find markets dedicated to foreigners, where trinkets and other clothes are all made in China...  
 Today, children (and many adults) look puzzled at the pale color of our skin, at our strange attire, at the way we speak and at our gestures: it seems so funny for them. Tomorrow, maybe will they have the feeling that we have invaded their country, armed with our anxious needs of comfort, hygiene, prejudice and blunt manners. Maybe will they also think that in the end no one is really interested in their culture, their differences.   I understand, as a European, the interest of comfort, the reassuring aspect of finding known brands when you are in an unfamiliar territory.  Of course I want the Burmese people to see their quality of life improve.  
 But I see so many tourists who do not seem to be interested in the country where they come to spend, say, 2 weeks holidays: huge expensive camera around the neck, they photograph everything they see, locals included, without thinking a second of asking for their consent. As if they were at the zoo.  
