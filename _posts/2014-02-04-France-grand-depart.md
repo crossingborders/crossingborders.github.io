@@ -35,31 +35,31 @@ Les hôtesses déroulent les formalités de sécurité, l'avion décolle.
 L'aventure peut commencer!!
 
 
-:feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada: :feet: :airplane: :feet: :tada:
+:feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet: :feet:
 
 
-_February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport._  
-_I wear a light trousers, a short-sleeved shirt, a light hoody jacket, summer socks and my trail shoes (fortunately waterproof): all the warmest clothes I have in my backpack, yet huge._  
-_I am soaked, freezing, but who cares! **In a few hours I fly to Koh Tao, in Thailand**._
+February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport.  
+I wear a light trousers, a short-sleeved shirt, a light hoody jacket, summer socks and my trail shoes (fortunately waterproof): all the warmest clothes I have in my backpack, yet huge.  
+I am soaked, freezing, but who cares! **In a few hours I fly to Koh Tao, in Thailand**.
 
-_All those years I have dreamt about this..._  
-_I find it hard to realize what I am doing. **Going around the world for 2 years, having left everything behind**: family, friends, dog, work, home, business, habits, comfort, safety,..._  
-_Yet I am here, at the airport, bags on the back and tickets in hand, ready to leave my little comfy world towards the unknown._  
-_**My childhood dream is coming true!**_
+All those years I have dreamt about this...  
+I find it hard to realize what I am doing. **Going around the world for 2 years, having left everything behind**: family, friends, dog, work, home, business, habits, comfort, safety,...  
+Yet I am here, at the airport, bags on the back and tickets in hand, ready to leave my little comfy world towards the unknown.  
+**My childhood dream is coming true!**
 
-_Since I left Marseille (city where I was born and where my heart still is) and said goodbye to my family, my brain is boiling. So many emotions collide I can not decide what I really feel:_  
-_* On one side **I am excited to finally travel our vast planet, adventure, see what life is like elsewhere.** After all, I finally do what I dream about since childhood._  
-_* However, on the other side, **I fear losing my bearings, facing the unknown and myself.** At almost 40 years old (ouch!), it is not an easy thing to consider._  
-_I decide to let fear aside: I leave with two friends for a world now connected via internet. Also, I have to return to France in one month and a half: nothing would then prevent me from staying there if I needed to._
+Since I left Marseille (city where I was born and where my heart still is) and said goodbye to my family, my brain is boiling. So many emotions collide I can not decide what I really feel:  
+* On one side **I am excited to finally travel our vast planet, adventure, see what life is like elsewhere.** After all, I finally do what I dream about since childhood.  
+* However, on the other side, **I fear losing my bearings, facing the unknown and myself.** At almost 40 years old (ouch!), it is not an easy thing to consider.  
+I decide to let fear aside: I leave with two friends for a world now connected via internet. Also, I have to return to France in one month and a half: nothing would then prevent me from staying there if I needed to.
 
-_No need to go far or wait very long before confronting the first unexpected event and take a first life lesson._  
-_At the boarding counter in Roissy, the employee asks for our ticket out of Thai territory. That, of course, we do not have: in the euphoria of departure, we have not given any administrative formality._  
-_Never mind! We immediately book tickets over internet to meet the demands of this man and get on the plane. **We will go to Myanmar for two weeks early March.**_  
-_I am stunned: five minutes earlier, I did not know I would discover this country. Certainly, we had talked about this destination before, but about many others too!_  
-_This is the first time in my life that I feel so free._  
-_All our life, we ​​learn to follow the movement: get an education, find a job, buy a home, start a family, save money, plan vacation in the coming year, wait for retirement to enjoy life without much constraint (providing that health is still good). At no time do we taste true freedom. And now, suddenly, I realize that I am free to do what I like, when I like, the way I like. Free to go left or right. Now or later. Free to have a program and change it at the last minute, or not to have one at all. **Totally, absolutely FREE.** Never have I felt so exhilarating feeling!_  
+No need to go far or wait very long before confronting the first unexpected event and take a first life lesson.  
+At the boarding counter in Roissy, the employee asks for our ticket out of Thai territory. That, of course, we do not have: in the euphoria of departure, we have not given any administrative formality.  
+Never mind! We immediately book tickets over internet to meet the demands of this man and get on the plane. **We will go to Myanmar for two weeks early March.**  
+I am stunned: five minutes earlier, I did not know I would discover this country. Certainly, we had talked about this destination before, but about many others too!  
+This is the first time in my life that I feel so free.  
+All our life, we ​​learn to follow the movement: get an education, find a job, buy a home, start a family, save money, plan vacation in the coming year, wait for retirement to enjoy life without much constraint (providing that health is still good). At no time do we taste true freedom. And now, suddenly, I realize that I am free to do what I like, when I like, the way I like. Free to go left or right. Now or later. Free to have a program and change it at the last minute, or not to have one at all. **Totally, absolutely FREE.** Never have I felt so exhilarating feeling!  
 
-_Our luggage are finally checked in._  
-_We pass through customs, settle down and take our seats._  
-_Hostesses follow security requirements, the plane takes off._  
-_Adventure can begin!!_
+Our luggage are finally checked in.  
+We pass through customs, settle down and take our seats.  
+Hostesses follow security requirements, the plane takes off.  
+Adventure can begin!!
