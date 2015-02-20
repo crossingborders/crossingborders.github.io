@@ -35,7 +35,7 @@ Les hôtesses déroulent les formalités de sécurité, l'avion décolle.
 L'aventure peut commencer!!
 
 
-:large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond:
+:earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond:
 
 
 February 4, 2014. I am in Paris, in the cold and rain, on my way to the airport.  
