@@ -69,7 +69,7 @@ Une petite chose, en revanche... Qu'on ne me propose ou ne me parle plus JAMAIS 
 
 
 
------------------------------------------------------------------------------------------------------------------------------
+:earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:
 
 
 
