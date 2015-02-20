@@ -73,7 +73,7 @@ Une petite chose, en revanche... Qu'on ne me propose ou ne me parle plus JAMAIS 
 
 
 
-May 31, 2014. Here I am in Bangkok again.  
+Here I am in Bangkok again.  
 This time, I have spent long hours, in France, surfing blogs, reading tour guides and checking forums to prepare this "fresh start" and avoid the mistakes made in Myanmar.  
 **I have one month to discover Thailand**. My intention is to cross the country from north to south while trying to avoid the coming monsoon.  
 To establish a travel plan was a real puzzle: am I choosing the right destinations? Is the program realistic or too ambitious? How easy (or not) is it to travel long distances? Are buses and trains reliable? Oh, boy! Really, travelling is an art that can not be learnt overnight!
