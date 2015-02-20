@@ -138,10 +138,10 @@ I soon meet a kind of "wise" balinese man who shares with me some **balinese bel
 I decide to give a try to his way of seeing things, at least for a few days.  
 I slowly walk downtown, wander in **the market** overcrowded by tourists and invasive traders. **I take the time to stop and talk for a minute**. My excuse for not buying - "Sorry, I have no money" - is echoed by their funny answer - "No money, no honey" -. One of them offers me a job and commissions for every customer I could bring her!  
 **I slowly walk among beautiful rice fields** in the north of town and pay attention to the colours, the smells, the breeze, the sounds of nature. I find a nice little warung and stop for a hot chocolate, enjoying the view on the fields and observing the surrounding wildlife.  
-I accept my injury and decide it has happened so I could learn about **taking time*, stop running around and train my **patience**.  
+I accept my injury and decide it has happened so I could learn about **taking time**, stop running around and train my **patience**.  
 **A whole week goes without me seeing it**. In the end, this man was right: little things can keep you very busy if you pay attention to them!  
 
-**After this mountain spiritual interlude**, I am back to the seafront.  
+After this mountain spiritual interlude, I am back to the seafront.  
 I spend a week on **Nusa Lembongan**, a small island in the southeast of Bali (remember the chicken egg?), accessible from Sanur (a quiet tourist town on the east coast). Again, the guesthouse is welcoming and life leisurely.  
 My days are punctuated by **peaceful walks to beautiful deserted beaches** (Mushroom bay, Dream Beach, Sunset Beach).  
 I somehow resume **Yoga** and participate in a **beach cleaning session** where I meet locals. A few hours later, I am invited to share a glass of **arak**, the local drink made from palm alcohol with an abominable taste and a smell that could wake the dead. The evening I spend with them is happy, noisy and busy, I will keep a good memory from it despite the headache the next day!
