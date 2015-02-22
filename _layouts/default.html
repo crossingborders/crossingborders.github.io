@@ -19,12 +19,12 @@
   <div id="page-navigation">
     {% if page.previous.url %}
      <a href="{{page.previous.url}}" title="Voyage précédent: 
-        {{page.previous.title}}" style="float: left">&laquo; {{page.previous.title}}</a>
+        {{page.previous.title}}" style="float: left">&laquo; {{page.previous.zone}}</a>
     {% endif %}
 
    {% if page.next.url %}
     <a href="{{page.next.url}}" title="Voyage suivant: 
-    {{page.next.title}}" style="float: right">{{page.next.title}} &raquo; </a>
+    {{page.next.title}}" style="float: right">{{page.next.zone}} &raquo; </a>
    {% endif %}
   </div>
   
