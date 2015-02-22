@@ -141,4 +141,3 @@ For my last night in town, we toast from the top of one of the tallest buildings
 
 As usual now, I leave Hong Kong without having had time to see everything: another place I quit telling me that I must return.  
 **I did well to come!**
-
