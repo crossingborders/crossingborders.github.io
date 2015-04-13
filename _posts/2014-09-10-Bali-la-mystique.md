@@ -1,10 +1,8 @@
 ---
 layout: post
-
-title: Bali la mystique
-
-country: Indonesie
-
+title: « 7. Bali la mystique »
+zone: Amed Beach
+photoset:72157650244690249
 places:
   - name: Amed
   - name: Tirtagangga
@@ -13,8 +11,7 @@ places:
   - name: Gili islands
   - name: Pemuteran
   - name: Pura Lempuyang
-
-photoset:72157650244690249
+published: true
 ---
 
 Le calme de Bali contraste avec la folie de Hong-Kong. J’ai quitté les centres commerciaux et la foule pour retrouver les rizières et la plage, et rejoins un de mes compagnons de voyage à **Amed**, petit bled perdu sur la côte au Nord Est de l’île.  
