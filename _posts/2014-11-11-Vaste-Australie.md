@@ -13,7 +13,7 @@ places:
 published: true
 ---
 
-Quand j’ai quitté la France, **l’Australie** était, comme pour beaucoup je crois, en tête des pays qui me faisait rêver (encore que si je devais faire un classement, je serais bien embêtée!!). Je m’étais dit que j’aurai sans doute envie de m’y poser quelques années. J’avais jeté un oeil sur les formalités administratives à remplir pour obtenir un visa de travail et emmener mon chien avec moi. Je n’avais en fait plus qu’une seule question en tête: **est ce que j’allais préférer m'installer à Sydney ou à Melbourne?**  
+11 septembre 2014. Quand j’ai quitté la France, **l’Australie** était, comme pour beaucoup je crois, en tête des pays qui me faisait rêver (encore que si je devais faire un classement, je serais bien embêtée!!). Je m’étais dit que j’aurai sans doute envie de m’y poser quelques années. J’avais jeté un oeil sur les formalités administratives à remplir pour obtenir un visa de travail et emmener mon chien avec moi. Je n’avais en fait plus qu’une seule question en tête: **est ce que j’allais préférer m'installer à Sydney ou à Melbourne?**  
 
 Quelques mois ont passé. Je décolle de Bali pour l’Australie sans avoir changé d’idée.  
 Mon visa touristique, valable un an, m’autorise à faire des séjours de 3 mois maximum dans le pays. J’ai déjà pris mon billet pour faire une première visite éclair de la Nouvelle Zélande (j’irai y passer les 15 derniers jours de Novembre) et relancer par la même occasion ma permission de séjour pour un trimestre: là, j’ai **deux mois** pour profiter du pays.
