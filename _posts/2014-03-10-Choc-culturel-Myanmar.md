@@ -10,7 +10,7 @@ places:
 published: true
 ---
 
-Arrivée comme un cheveux sur la soupe au Myanmar sans avoir pris la moindre information pratique au préalable, le moins que je puisse dire c'est que je suis surprise!  
+26 février 2014. Arrivée comme un cheveux sur la soupe au Myanmar sans avoir pris la moindre information pratique au préalable, le moins que je puisse dire c'est que je suis surprise!  
 J'avais en tête l'image d'un **pays sauvage** et me retrouve confrontée à Yangon et ses millions d'habitants.  
 Je m'attendais à trouver un **pays verdoyant**, envahi de jungle, et je découvre à travers les vitres des bus la sècheresse extrême des forêts en pleine saison sèche.  
 J'avais été prévenue que **le Myanmar, c'est la Thaïlande d'il y a 60 ans**, mais je crois ne pas avoir réalisé ce que ça signifiait et ne suis pas préparée à autant de pauvreté, de manque d'hygiène, d'odeurs pestilentielles, de regards curieux.  
