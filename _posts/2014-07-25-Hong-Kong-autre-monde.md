@@ -18,7 +18,7 @@ places:
 published: true
 ---
 
-La veille de mon départ de Bali, traînant toujours la patte, **je suis à deux doigts de ne pas prendre l'avion**.
+26 juin 2014. La veille de mon départ de Bali, traînant toujours la patte, **je suis à deux doigts de ne pas prendre l'avion**.
 J'ai acheté mon billet en pensant rendre visite à un couple d'amis, aller grimper et suivre un programme intensif de pole. Et là, ça part plutôt mal: mes amis sont partis passé 15 jours en France et je ne peux toujours pas vraiment faire de sport.  
 
 Finalement, je me souviens de ce que le "sage" m'a dit sur le fait qu'il y a du bon en toute chose et ma curiosité l'emporte: je ne suis pas fan des grandes villes, mais à quoi peut bien ressembler la vie là bas?  
