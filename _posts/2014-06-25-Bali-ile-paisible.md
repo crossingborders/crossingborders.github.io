@@ -12,7 +12,7 @@ places:
 published: true
 ---
 
-Cela fait quelques mois que je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
+05 juin 2014. Cela fait quelques mois que je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
 
 Faire ses premiers pas seule, dans ce monde si vaste, est une expérience que beaucoup redoutent (moi inclus).  
 **Aucun endroit où se cacher pour ne pas affronter l'inconnu... Être responsable de sa vie, au sens entier du terme, dans un environnement dont on ne connaît pas les règles, les coutumes, la façon de vivre...**  
