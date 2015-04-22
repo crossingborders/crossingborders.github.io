@@ -10,8 +10,7 @@ places:
 published: true
 ---
 
-France, le 04 février 2014.  
-Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
+04 février 2014. Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
 Arrivés au Kuwait, nous attendons patiemment notre correspondance.   
 On ne peut décidément jamais prévoir quelles surprises la vie nous réserve.  
 Au moment de monter dans l'avion, nous découvrons que la compagnie aérienne a fait du surbooking: nos places, ainsi  que celles de tous les européens avec lesquels nous devions voyager, ont été attribuées à d'autres passagers. Nous n'avons plus vraiment de vol pour quitter le pays: **nous voilà donc coincés dans le petit aéroport typique de Kuwait city, un couloir vieillot et sordide, patrouillé par des militaires en armes.**  
