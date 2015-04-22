@@ -11,7 +11,7 @@ places:
 published: true
 ---
 
-Me voilà de retour à Bangkok.  
+01 mai 2014. Me voilà de retour à Bangkok.  
 J'ai passé de longues heures, en France, à consulter blogs, guides touristiques et forums pour préparer ce "nouveau départ" et éviter les erreurs commises au Myanmar.  
 **Je pars un mois à la découverte de la Thaïlande**. Mon intention est de traverser le pays du nord au sud en évitant au maximum la mousson qui arrive.  
 Etablir un plan de voyage a été un vrai casse-tête: est ce que je fais les bons choix de destination? Le programme est-il réaliste ou trop ambitieux? Est ce facile de voyager sur de longues distances ou pas? Les moyens de transport sont-ils fiables? Ah, décidément, l'art de voyager ne s'apprend pas en une nuit!
