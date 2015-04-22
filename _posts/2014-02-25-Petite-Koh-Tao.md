@@ -10,6 +10,7 @@ places:
 published: true
 ---
 
+France, le 05 février 2014.  
 Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
 Arrivés au Kuwait, nous attendons patiemment notre correspondance.   
 On ne peut décidément jamais prévoir quelles surprises la vie nous réserve.  
