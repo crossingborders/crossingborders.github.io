@@ -14,7 +14,7 @@ places:
 published: true
 ---
 
-Le calme de Bali contraste avec la folie de Hong-Kong. J’ai quitté les centres commerciaux et la foule pour retrouver les rizières et la plage, et rejoins un de mes compagnons de voyage à **Amed**, petit bled perdu sur la côte au Nord Est de l’île.  
+26 juillet 2014. Le calme de Bali contraste avec la folie de Hong-Kong. J’ai quitté les centres commerciaux et la foule pour retrouver les rizières et la plage, et rejoins un de mes compagnons de voyage à **Amed**, petit bled perdu sur la côte au Nord Est de l’île.  
 
 Quelques clubs de plongée, hôtels, warungs et maisons balinaises, un salon de massage, un temple, une école, un cimetière et une petite supérette s'étalent sur 2 ou 3 km, coincés entre des collines envahies de forêts verdoyantes et la plage de sable noir qui borde l’océan.  
 **En longeant la côte vers l'Est**, on trouve de jolis fonds marins facilement accessibles en snorkeling.  
