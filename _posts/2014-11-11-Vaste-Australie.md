@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8. Vaste Australie"
-zone: Australia
+zone: Western Australia
 photoset: "72157651710239388"
 places: 
   - name: Darwin
