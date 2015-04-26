@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "8. Vaste Australie"
-zone: Coral Bay
+zone: Western Australia
 photoset: "72157651710239388"
 places: 
   - name: Darwin
   - name: Broome
   - name: Exmouth
+  - name: Coral Bay
   - name: Perth
   - name: Melbourne
   - name: Sydney
