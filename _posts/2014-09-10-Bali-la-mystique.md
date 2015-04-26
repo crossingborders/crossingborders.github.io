@@ -2,7 +2,7 @@
 layout: post
 title: «7. Bali la mystique»
 zone: Amed Beach
-photoset: 72157650244690249
+photoset: "72157650244690249"
 places:
   - name: Amed
   - name: Tirtagangga
