@@ -1,9 +1,9 @@
 ---
 layout: post
-title: « 8. Vaste Australie »
+title: "8. Vaste Australie"
 zone: Coral Bay
 photoset: "72157651710239388"
-places:
+places: 
   - name: Darwin
   - name: Broome
   - name: Exmouth
