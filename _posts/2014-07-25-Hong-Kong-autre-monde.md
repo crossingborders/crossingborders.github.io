@@ -16,7 +16,7 @@ places:
 published: true
 ---
 
-26 juin 2014. La veille de mon départ de Bali, traînant toujours la patte, **je suis à deux doigts de ne pas prendre l'avion**.
+**26 juin 2014.** La veille de mon départ de Bali, traînant toujours la patte, **je suis à deux doigts de ne pas prendre l'avion**.
 J'ai acheté mon billet en pensant rendre visite à un couple d'amis, aller grimper et suivre un programme intensif de pole. Et là, ça part plutôt mal: mes amis sont partis passé 15 jours en France et je ne peux toujours pas vraiment faire de sport.  
 
 Finalement, je me souviens de ce que le "sage" m'a dit sur le fait qu'il y a du bon en toute chose et ma curiosité l'emporte: je ne suis pas fan des grandes villes, mais à quoi peut bien ressembler la vie là bas?  
@@ -79,7 +79,7 @@ Je quitte Hong-Kong sans avoir eu le temps de tout voir: encore un endroit que j
 :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: 
 
 
-On the eve of my departure from Bali, still dragging the leg, **I am on the verge of not leaving**.  
+**26 June 2014.** On the eve of my departure from Bali, still dragging the leg, **I am on the verge of not leaving**.  
 I bought my ticket thinking to visit a couple of friends, go climbing and follow an intensive pole dance program. And at the moment, it does not sound good: my friends are gone 2 weeks in France and I still can not really do sport.  
 
 But in the end, I remember the "wise" man lesson on how there is good in every situation and curiosity prevails : I am not a fan of big cities, but what does it feel like to live there?  
