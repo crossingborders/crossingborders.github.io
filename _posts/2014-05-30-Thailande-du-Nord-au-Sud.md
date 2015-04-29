@@ -11,9 +11,7 @@ places:
 published: true
 ---
 
-**01 mai 2014.**  
-
-Me voilà de retour à Bangkok.  
+**01 mai 2014.** Me voilà de retour à Bangkok.  
 J'ai passé de longues heures, en France, à consulter blogs, guides touristiques et forums pour préparer ce "nouveau départ" et éviter les erreurs commises au Myanmar.  
 **Je pars un mois à la découverte de la Thaïlande**. Mon intention est de traverser le pays du nord au sud en évitant au maximum la mousson qui arrive.  
 Etablir un plan de voyage a été un vrai casse-tête: est ce que je fais les bons choix de destination? Le programme est-il réaliste ou trop ambitieux? Est ce facile de voyager sur de longues distances ou pas? Les moyens de transport sont-ils fiables? Ah, décidément, l'art de voyager ne s'apprend pas en une nuit!
@@ -75,9 +73,7 @@ Une petite chose, en revanche... Qu'on ne me propose ou ne me parle plus JAMAIS 
 
 
 
-**01 May 2014.**  
-
-Here I am in Bangkok again.  
+**01 May 2014.** Here I am in Bangkok again.  
 This time, I have spent long hours, in France, surfing blogs, reading tour guides and checking forums to prepare this "fresh start" and avoid the mistakes made in Myanmar.  
 **I have one month to discover Thailand**. My intention is to cross the country from north to south while trying to avoid the coming monsoon.  
 To establish a travel plan was a real puzzle: am I choosing the right destinations? Is the program realistic or too ambitious? How easy (or not) is it to travel long distances? Are buses and trains reliable? Oh, boy! Really, travelling is an art that can not be learnt overnight!
