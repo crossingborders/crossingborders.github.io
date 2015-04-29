@@ -8,6 +8,8 @@ places:
 published: true
 ---
 
+**04 février 2014.**  
+
 Je suis à Paris, dans le froid et sous la pluie, en route pour l'aéroport.  
 Je porte un pantalon léger, un tee-shirt à manches courtes, une veste légère à capuche, des chaussettes d'été et mes baskets de trail (heureusement étanches): tout ce que j'ai de plus chaud dans mon sac à dos, pourtant énorme.  
 Je suis trempée, frigorifiée, mais qu'importe! **Dans quelques heures, je m'envole pour la Thaïlande, direction Koh Tao**.
@@ -37,6 +39,8 @@ L'aventure peut commencer!!
 
 :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:
 
+
+**04 February 2014.** 
 
 I am in Paris, in the cold and rain, on my way to the airport.  
 I wear a light trousers, a short-sleeved shirt, a light hoody jacket, summer socks and my trail shoes (fortunately waterproof): all the warmest clothes I have in my backpack, yet huge.  
