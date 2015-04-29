@@ -10,9 +10,7 @@ places:
 published: true
 ---
 
-**04 février 2014.**  
-
-Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
+**04 février 2014.** Nous sommes à Roissy, heureux de partir sous le soleil, excités de réaliser ce projet un peu fou. Le trajet en avion (Paris/Kuwait city/Bangkok) va prendre quelques heures, mais qu'importe, nous avons tout le temps devant nous!  
 Arrivés au Kuwait, nous attendons patiemment notre correspondance.   
 On ne peut décidément jamais prévoir quelles surprises la vie nous réserve.  
 Au moment de monter dans l'avion, nous découvrons que la compagnie aérienne a fait du surbooking: nos places, ainsi  que celles de tous les européens avec lesquels nous devions voyager, ont été attribuées à d'autres passagers. Nous n'avons plus vraiment de vol pour quitter le pays: **nous voilà donc coincés dans le petit aéroport typique de Kuwait city, un couloir vieillot et sordide, patrouillé par des militaires en armes.**  
@@ -71,9 +69,7 @@ L'ombre d'un 2ème séjour se profile à l'horizon: et si je revenais visiter ce
 :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  
 
 
-**04 February 2014.**  
-
-We are in Roissy, happy to leave in the sun, excited to achieve this crazy project. The flight (Paris / Kuwait city / Bangkok) will take a few hours, but who cares, we have all the time in front of us!  
+**04 February 2014.** We are in Roissy, happy to leave in the sun, excited to achieve this crazy project. The flight (Paris / Kuwait city / Bangkok) will take a few hours, but who cares, we have all the time in front of us!  
 We definitely can never know what surprises life is about to bring.  
 Arrived in Kuwait, we patiently wait for our correspondence. At the time of boarding the plane, we discover the joys of overbooking: we understand that our seats, as well as those of all European with whom we were traveling, were assigned to other passengers. We are not really booked on any other flight out of the country either: **so here we are, stuck in the typical Kuwait city airport, a quaint and sordid corridor patrolled by armed soldiers**.  
 After hours of fierce debate, we get a flight on another airline and finally land in Bangkok with a half a day delay. From there, the flight to Koh Samui is going smoothly. One last trip via Koh Phangan, by boat this time, leads us safely.  
