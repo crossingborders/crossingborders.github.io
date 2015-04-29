@@ -68,7 +68,7 @@ Ce petit je-ne-sais-quoi qui me perturbe, je ne l'identifierai que bien plus tar
 L'ombre d'un 2ème séjour se profile à l'horizon: et si je revenais visiter ce pays autrement après mon passage en France?
 
 
-:earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:
+:earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  
 
 
 **04 February 2014.**  
