@@ -12,9 +12,7 @@ places:
 published: true
 ---
 
-**05 juin 2014.**  
-
-Cela fait quelques mois que je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
+**05 juin 2014.** Cela fait quelques mois que je voyage en groupe maintenant. Voyons voir quel effet ca fait de me retrouver en tête-à-tête avec moi-même pendant 2 mois.
 
 Faire ses premiers pas seule, dans ce monde si vaste, est une expérience que beaucoup redoutent (moi inclus).  
 **Aucun endroit où se cacher pour ne pas affronter l'inconnu... Être responsable de sa vie, au sens entier du terme, dans un environnement dont on ne connaît pas les règles, les coutumes, la façon de vivre...**  
@@ -86,9 +84,7 @@ J'ai enfin compris que l'essence même du voyage n'est pas de faire un maximum d
 
 
 
-**05 June 2014.**  
-
-I have been travelling in a group for a little while now. Let's see what it feels like to be one-on-one with myself for the next 2 months.
+**05 June 2014.** I have been travelling in a group for a little while now. Let's see what it feels like to be one-on-one with myself for the next 2 months.
 
 
 Getting started alone in this vast world is an experience feared by many (me included).  
