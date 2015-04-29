@@ -53,6 +53,7 @@ Je rencontre bientôt une sorte de "sage" qui m'enseigne **quelques principes de
 * Il me parle de l'importance de **méditer, lâcher-prise, prendre du recul avant d'agir**.  
 * Il me rappelle que nous ne pouvons pas décider de tout et qu'il n'y a donc pas lieu de stresser tout le temps. Que nous devrions **profiter de ce que la vie nous donne car selon ses croyances, ce qui doit arriver arrivera**.  
 * Il me raconte l'importance qu'il accorde à **trouver le bon dans ce qui pourrait paraitre mauvais au premier abord**.  
+
 Autant de concepts qui sont bien éloignés de ceux auxquels nous avons l'habitude! Je décide d'essayer de vivre au moins quelques jours selon ces principes.  
 J'arpente le centre ville à pas lents, erre dans un marché bondé de touristes et de commerçants quelques peu envahissants. **Je prend le temps de m'arrêter et de discuter avec eux**. A mon excuse banale " désolée, je n'ai pas d'argent", ils me répondent en coeur "pas d'argent, pas de miel". Une commerçante me propose un travail et des commissions pour chaque client que je ramènerais sur son stand!  
 **Je me promène, toujours lentement, au milieu de rizières magnifiques** dans le nord de la ville et remarque les couleurs, les odeurs, la brise, les sons de la nature. Je trouve un petit warung et m'y installe pour savourer un chocolat chaud en apréciant la vue sur les rizières et en observant les animaux qui vivent là.  
