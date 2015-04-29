@@ -10,9 +10,7 @@ places:
 published: true
 ---
 
-**26 février 2014.**  
-
-Arrivée comme un cheveux sur la soupe au Myanmar sans avoir pris la moindre information pratique au préalable, le moins que je puisse dire c'est que je suis surprise!  
+**26 février 2014.** Arrivée comme un cheveux sur la soupe au Myanmar sans avoir pris la moindre information pratique au préalable, le moins que je puisse dire c'est que je suis surprise!  
 J'avais en tête l'image d'un **pays sauvage** et me retrouve confrontée à Yangon et ses millions d'habitants.  
 Je m'attendais à trouver un **pays verdoyant**, envahi de jungle, et je découvre à travers les vitres des bus la sècheresse extrême des forêts en pleine saison sèche.  
 J'avais été prévenue que **le Myanmar, c'est la Thaïlande d'il y a 60 ans**, mais je crois ne pas avoir réalisé ce que ça signifiait et ne suis pas préparée à autant de pauvreté, de manque d'hygiène, d'odeurs pestilentielles, de regards curieux.  
@@ -91,9 +89,7 @@ Ce sera la 2ème leçon que je retiendrai depuis mon départ: **qui veut réelle
 :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:
 
 
-**26 February 2014.**  
-
-Arrived in Myanmar without any practical information taken beforehand, the least I can say is that I am surprised!  
+**26 February 2014.** Arrived in Myanmar without any practical information taken beforehand, the least I can say is that I am surprised!  
 I had in mind the image of a **wild country** and find myself facing Yangon and its million inhabitants.  
 I expected to find a **green country**, invaded by jungle, and discover through the bus windows the forests' extreme drought due to the dry season.  
 I had been warned that **Myanmar is like Thailand 60 years ago**, but had not realized what it meant and am not prepared for so much poverty, lack of hygiene, pestilential odors and curious eyes.  
