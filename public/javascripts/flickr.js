@@ -30,6 +30,7 @@ function photoset_downloaded () {
                   big: photo.url_o,
                   original: photo.url_o,
                   title: photo.title,
+                  description: 'Cliquez sur l\'image pour la voir en meilleure qualité.'
                   link: photo.url_o});
 
     if (photo.isprimary === '1')
