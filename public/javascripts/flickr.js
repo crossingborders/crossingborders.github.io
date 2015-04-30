@@ -29,7 +29,8 @@ function photoset_downloaded () {
                   image: photo.url_m,
                   big: photo.url_o,
                   original: photo.url_o,
-                  title: photo.title });
+                  title: photo.title,
+                  link: photo.url_o});
 
     if (photo.isprimary === '1')
       featured_image = photos[i];
