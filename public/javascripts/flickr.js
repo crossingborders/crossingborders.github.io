@@ -36,7 +36,7 @@ function photoset_downloaded () {
   }
 
   if (typeof featured_image === 'undefined')
-    featured_image = photo[1];
+    featured_image = photo[0];
     
   var img = document.querySelector('#featured_image > img')
   img.src = featured_image.original;
