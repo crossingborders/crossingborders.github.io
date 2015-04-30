@@ -35,12 +35,13 @@ function photoset_downloaded () {
       featured_image = photos[i];
   }
 
-  if (typeof featured_image !== 'undefined') {
-    var img = document.querySelector('#featured_image > img')
-    img.src = featured_image.original;
-    img.title = featured_image.title;
-    document.querySelector('article > header h1').style.position = 'absolute';
-  }
+  if (typeof featured_image === 'undefined')
+    featured_image = photo[1];
+    
+  var img = document.querySelector('#featured_image > img')
+  img.src = featured_image.original;
+  img.title = featured_image.title;
+  document.querySelector('article > header h1').style.position = 'absolute';
 
   document.querySelector('#featured_image').addEventListener('click', function() {
     event.preventDefault();
