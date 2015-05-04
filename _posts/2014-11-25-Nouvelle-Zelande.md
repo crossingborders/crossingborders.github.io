@@ -13,7 +13,7 @@ published: true
 
 Petit pays discret découpé en plusieurs îles (dont deux principales), perdu de l’autre côté de la planète, je n’en connais pour l’heure que deux choses:  
 - Les **paysages grandioses** que j’ai pu voir dans le **Seigneur des Anneaux**, la célèbre trilogie de Tolkien adaptée au cinéma (avec le succès qu’on lui connait).  
-- Cette fabuleuse équipe de rugby, les **All Blacks** (mon équipe fétiche), avec leur haka qui me donne des frissons et leur tendance naturelle à écraser leurs adversaires avec classe. (Ne râle pas, ami lecteur supporter de l’équipe de France, je sais, on les a déjà battu, mais ça ne change rien! Et puis c’est moi qui raconte, alors je dis ce que je veux :))   
+- Cette **fabuleuse équipe de rugby, les All Blacks** (mon équipe fétiche), avec leur haka qui me donne des frissons et leur tendance naturelle à écraser leurs adversaires avec classe. (Ne râle pas, ami lecteur supporter de l’équipe de France, je sais, on les a déjà battu, mais ça ne change rien! Et puis c’est moi qui raconte, alors je dis ce que je veux :))   
 
 
 D’après les renseignements que j’ai pris auprès d’autres voyageurs, un mois semble suffisant pour visiter tout le pays: les distances ne sont pas grandes, le réseau de bus pas cher et bien rodé. Tous m’ont recommandé de commencer par l’**île du Nord** et de garder celle du Sud, apparemment la plus impressionnante, pour plus tard.  
