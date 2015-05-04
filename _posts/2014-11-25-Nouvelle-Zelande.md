@@ -88,4 +88,4 @@ Je remonte dans un avion de la New Zealand Airways, me marre à nouveau devant l
 
 Au revoir Nouvelle Zélande! Ou plutôt devrais je dire...
 
-**Kia Ora Aoteaora!**
+**Kia Ora Aotearoa!**
