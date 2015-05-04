@@ -88,7 +88,7 @@ Mon amie et moi passons quelques jours sur Perth pour nous remettre de nos émot
 
 Nous nous envolons ensuite pour **Melbourne**. Là, nous n'avons pas de chance avec la météo: il pleut pendant presque toute la durée du séjour et il fait un froid de canard. Cela ne diminue en rien notre bonne humeur et nous nous lançons à l’assaut de la ville, partant à la recherche de **ces graphes magnifiques qui ornent les murs de certains quartiers**. J'aime l’**atmosphère à la fois bobo et détendue** qui se dégage de Melbourne et j’ai déjà hâte d'y revenir.  
 
-Pour finir, nous remontons survivants **Sydney**, où nous nous séparons en nous promettant de nous revoir.  
+Pour finir, nous remontons sur **Sydney**, où nous nous séparons en nous promettant de nous revoir.  
 
 Il est maintenant temps pour moi d’attaquer le programme chargé que je me suis fixée.  
 Je vais m’installer dans un backpackers au nord de Sydney, à 100 mètres de la plage… et à une bonne heure de la ville. Pas pratique pour aller aux studios de pole dance, mais vus les tarifs prohibitifs du moindre logement dans le centre, je n’ai pas le choix.  
