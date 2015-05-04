@@ -45,8 +45,7 @@ Je suis donc condamnée à me réveiller aux aurores…
 Qu’à cela ne tienne, au moins je profiterais du temps passé ici! Amed a beau être un petit village, ce ne sont pas les activités qui manquent dans le coin.  
 
 Nous partons d’abord faire du **snorkeling** au bord de la plage voisine, où se cachent des fonds marins surprenants.  
-Nous commençons par faire le tour d’un petit récif corallien habité par de jolis poissons colorés.  
-J’ai ensuite la surprise de découvrir qu’un petit morceau de temple repose sur le sable, à une dizaine de mètres de profondeur. **Je ne sais pas comment ni pourquoi il s’est retrouvé là**: j’éprouve un sentiment étrange à voir ce bout de vie enfoui sous l’eau, cette petite page d'histoire cachée aux yeux du plus grand nombre.  
+Après avoir fait le tour d’un petit récif corallien habité par de jolis poissons colorés, j’ai la surprise de découvrir qu’un petit morceau de temple repose sur le sable, à une dizaine de mètres de profondeur. **Je ne sais pas comment ni pourquoi il s’est retrouvé là**: j’éprouve un sentiment étrange à voir ce bout de vie enfoui sous l’eau, cette petite page d'histoire cachée aux yeux du plus grand nombre.  
 
 De retour à terre, nous allons visiter le **palais Tirtagangga, avec ses jardins, ses sculptures, son impressionnante fontaine, ses bassins et ses piscines, le tout construit au milieu de superbes rizières**. Il se dégage de cet endroit une ambiance qui invite à la détente et nous nous installons tranquillement pour profiter du spectacle.  
 
