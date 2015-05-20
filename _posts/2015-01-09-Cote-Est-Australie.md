@@ -63,7 +63,9 @@ Les studios de pole sont fermés le temps des fêtes de fin d’année. Je profi
 Un combat permanent contre **l’esprit** (“Il est trop dur ce mouv’, j’y arriverai jamais!”), **le corps** (“Aïe, elle fait mal cette prise!”) et **l’apesanteur** (“Aaaah! Je vais tomber!”).  
 Cette prise de conscience des **possibilités de son corps** (“Ah, ben non, tiens, finalement ça passe si je fais comme ça”), la recherche permanente du **mouvement parfait**.
 Cette sensation de victoire, de **dépassement de soi**, lorsqu’on tient à deux mains la prise finale ou qu’on s’assoit sur le sommet du rocher après avoir sorti le bloc.  
-**Dix années de pratique qui m’ont façonnées, autant physiquement que mentalement. Dix années pendant lesquelles j’ai appris que les limites sont souvent dans la tête, que pour atteindre son objectif il ne faut rien lâcher mais plutôt prendre du recul, réfléchir calmement et y retourner… Dix années de belles rencontres aussi, que ce soit en forêt au pied des blocs, en salle sur les tapis, ou au comptoir après une séance bien remplie!**  
+**Dix années de pratique qui m’ont façonnées, autant physiquement que mentalement.**  
+**Dix années pendant lesquelles j’ai appris que les limites sont souvent dans la tête, que pour atteindre son objectif il ne faut rien lâcher mais plutôt prendre du recul, réfléchir calmement et y retourner…**  
+**Dix années de belles rencontres aussi, que ce soit en forêt au pied des blocs, en salle sur les tapis, ou au comptoir après une séance bien remplie!**  
 J’ai toujours comparé la grimpe à une danse verticale: elle rassemble esthétique des mouvements, fluidité des enchainements, précision technique des placements, puissance musculaire et souplesse (ou pas :)). A bien y réfléchir, quoi de plus normal que d’avoir plongé tête baissée dans la pole avec tous les points communs de ces deux activités?!  
 
 Le tout dernier jour de l’année, je trouve enfin l’opportunité d’aller voir les fameuses **Blue Mountains**, une chaîne de montagnes de grès creusées de profondes gorges, baptisées comme ça à cause du reflet bleu de l’essence des forêts d'eucalyptus qu’elles sont sensées renvoyer. Le principal point de vue donne directement sur les **Three Sisters** (les célèbres rochers symboles du site) et la vaste étendue de forêts qu’elles surplombent.  
@@ -88,7 +90,7 @@ A 00h12 précises, tout le monde se rue vers la sortie. La file de gens qui atte
 Notre énergie a été toute entière consommée dans le parc. Plus personne n’est motivé pour quoi que ce soit… Au final, ce sera un des jours de l’an les plus calmes que j’ai jamais fait.  
 
 Quelques jours plus tard, les studios de pole rouvrent enfin.  
-Un pole camp (comprendre un stage intensif sur deux semaines avec environ sept heures de cours divers proposés par jour) est organisé pour bien démarrer l’année. Je me suis inscrite à toutes les sessions matériellement possible et passe la dernière semaine à enchainer les workshops.  
+Un **pole camp** (comprendre un stage intensif sur deux semaines avec environ sept heures de cours divers proposés par jour) est organisé pour bien démarrer l’année. **Je me suis inscrite à toutes les sessions matériellement possible et passe la dernière semaine à enchainer les workshops.**  
 
 Il est maintenant l’heure de faire mes adieux à ce backpackers qui m’aura tout de même hébergé deux mois. Nous nous souhaitons tous bonne chance pour la suite de nos errances respectives et je prend le bus une dernière fois, cette fois direction l’aéroport.  
 
