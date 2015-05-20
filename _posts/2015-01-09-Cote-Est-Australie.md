@@ -1,7 +1,7 @@
 ---
 layout: post
 title: « 10. La côte Est australienne »
-zone: Melbourne
+zone: Sydney
 photoset: “72157652725430959”
 places:
   - name: Sydney
