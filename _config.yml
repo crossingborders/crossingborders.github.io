@@ -12,8 +12,8 @@ paginate:         1
 
 # URL
 permalink:        pretty
-url:              http://localhost:4000
-# url:              http://www.crossingborders.fr
+#url:              http://localhost:4000
+url:              http://crossingborders.fr
 baseurl:          /
 exclude:          ['Gemfile', 'Gemfile.lock']
 
