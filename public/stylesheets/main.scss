@@ -35,8 +35,10 @@ h1, h2, h3 {
 }
 
 #page-navigation {
+  background-color: #ededed;
   bottom: 1em;
-  padding: 0 1em;
+  border-radius: 3px;
+  padding: .3rem;
   position: fixed;
   width: 100%;
 }
