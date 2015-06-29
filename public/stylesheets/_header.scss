@@ -75,12 +75,19 @@ body {
 
     > header {
       nav {
+        h1 {
+          margin-left: .5rem;
+        }
         #text-menu {
           display: none;
         }
         #icon-menu {
           display: inline;
-          font-size: 28px
+          font-size: 28px;
+          
+          li {
+            margin: 0;
+          }
         }
       }
     }
