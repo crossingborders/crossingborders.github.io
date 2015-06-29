@@ -29,9 +29,8 @@ article {
 @media(max-width: 490px) {
   article 
   {
-    > header {
-      margin-top: 0;
-    }
+    margin-top: 0;
+    
     > p {
       padding: 0 .5rem;
     }
