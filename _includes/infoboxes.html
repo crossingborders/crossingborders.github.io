@@ -1,6 +1,6 @@
 <div class="infobox-wrapper">
 {% for post in site.posts %}
-    <div class="infobox" id="excursion-{{ post.zone }}">
+    <div class="infobox" id="excursion-{{ post.zone | slugify }}">
         <h3>{{ post.zone }} <small>{{ post.places | map: 'name' | join: ', ' }}</small></h3>
         {{ post.excerpt | strip_html | truncatewords: 20 }}
         <p><a href="{{ post.url }}">Lire la suite &raquo;</a></p>
