@@ -45,7 +45,7 @@ function photoset_downloaded () {
   img.title = featured_image.title;
   document.querySelector('article > header h1').style.position = 'absolute';
 
-  document.querySelector('#featured_image').addEventListener('click', function() {
+  document.querySelector('#featured_image').addEventListener('click', function(event) {
     event.preventDefault();
 
     document.querySelector('.galleria').style.display = 'initial';
