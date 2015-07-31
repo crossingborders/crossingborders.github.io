@@ -24,7 +24,7 @@ function googlemap() {
       var slug = location.address_components[0].long_name
       slug = slug.replace(/[^a-zA-Z0-9\s]/g,"");
       slug = slug.toLowerCase();
-      slug = slug.replace(/\s/g,'-');
+      slug = slug.replace(/[ï\s]/g,'-');
 
       map.addMarker(createMarker(slug, latlng, active_marker));
     }
