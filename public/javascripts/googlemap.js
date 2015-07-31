@@ -21,8 +21,12 @@ function googlemap() {
       var location = results[0];
       var latlng = location.geometry.location;
       var active_marker = (zone == '{{post.zone}}')? true : false;
+      var slug = location.address_components[0].long_name
+      slug = slug.replace(/[^a-zA-Z0-9\s]/g,"");
+      slug = slug.toLowerCase();
+      slug = slug.replace(/\s/g,'-');
 
-      map.addMarker(createMarker(location.address_components[0].long_name, latlng, active_marker));
+      map.addMarker(createMarker(slug, latlng, active_marker));
     }
   });
 {% endfor %}
