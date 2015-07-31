@@ -22,7 +22,7 @@ function googlemap() {
       var latlng = location.geometry.location;
       var active_marker = (zone == '{{post.zone}}')? true : false;
       var slug = location.address_components[0].long_name
-      slug = slug.replace(/[^a-zA-Z0-9\s]/g,"");
+      slug = slug.replace(/[^a-zA-Z0-9ï\s]/g,"");
       slug = slug.toLowerCase();
       slug = slug.replace(/[ï\s]/g,'-');
 
